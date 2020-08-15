@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blogging for translated news/article from English/Korean to Vietnamese - hungph
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-markdown: kramdown
+markdown: GFM
 twitter_username: hungphan88
 github_username:  hungph
 
