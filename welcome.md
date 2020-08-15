@@ -1,5 +1,5 @@
 layout: page
 title: "Welcome to my blog"
-permalink: /about/wellcome
+permalink: /about/welcome
 
 Hi everybody!
