@@ -40,8 +40,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Segoe UI", "Helvetica Neue", "Arial";
-  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  --font-family-sans-serif: "Lato", "Roboto", "Arial";
+  --font-family-monospace: "Lato","Roboto", monospace; }
 
 *,
 *::before,
@@ -64,7 +64,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Helvetica Neue", "Arial";
+  font-family:  "Lato", "Roboto", "Arial";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
@@ -168,7 +168,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family:  "Lato", "Roboto", monospace;
   font-size: 1em; }
 
 pre {
@@ -7082,7 +7082,7 @@ button.bg-lightblue:focus {
     margin-left: auto !important; } }
 
 .text-monospace {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  font-family:  "Lato", "Roboto", monospace; }
 
 .text-justify {
   text-align: justify !important; }
