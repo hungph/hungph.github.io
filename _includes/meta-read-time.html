@@ -1,9 +1,9 @@
 <span class="reading-time">
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    1 min read
+    Mất khoảng 1 phút để đọc hết bài
   {% else %}
-    {{ words | divided_by:180 }} mins read
+    Mất khoảng {{ words | divided_by:180 }} phút để đọc hết bài
   {% endif %}
 </span>
     

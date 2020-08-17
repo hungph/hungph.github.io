@@ -7,11 +7,11 @@ body {
 	padding-top:69.75px;
 }
 .site-content {
-	margin-top:30px;
 	min-height:400px;
+	background-color: #eaedf1;
 }
 .remove-site-content-margin {
-	margin-top:-30px;
+	padding-top: 15px;
 }
 img {
 	max-width:100%;
@@ -637,7 +637,6 @@ ol.list-featured li:before {
 	display:none;
 }
 footer {
-	margin-top:50px;
 	z-index:1022;
 	position:relative;
 }
@@ -654,7 +653,7 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family:Lora;
+    font-family:Lato;
 }
 .article-headline {
     font-family:  "Lato", "Roboto",serif;

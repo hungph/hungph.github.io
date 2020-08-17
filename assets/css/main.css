@@ -463,7 +463,8 @@ pre {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: auto; 
+  background-color: #ffffff; }
   @media (min-width: 576px) {
     .container {
       max-width: 540px; } }
@@ -3290,6 +3291,7 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  box-shadow: 0 2px 4px 0 #eaedf1;
   padding: 0.3rem 1rem; }
   .navbar > .container,
   .navbar > .container-fluid {
@@ -3300,8 +3302,8 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.68rem;
-  padding-bottom: 0.68rem;
+  /* padding-top: 0.68rem;
+  padding-bottom: 0.68rem; */
   margin-right: 1rem;
   font-size: 1.15rem;
   line-height: inherit;
@@ -5154,7 +5156,7 @@ button.bg-lightblue:focus {
   border: 1px solid #e8f3ec !important; }
 
 .border-top {
-  border-top: 1px solid #e8f3ec !important; }
+  border-top: 0px solid #e8f3ec !important; }
 
 .border-right {
   border-right: 1px solid #e8f3ec !important; }

@@ -7,14 +7,33 @@
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
 	<small class="d-block text-muted">
-		In <span class="catlist">
+		<span class="catlist">
 		{% for category in post.categories %}
 		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
 	</small>
 	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+		<!-- {{ post.date | date: '%b %d, %Y' }} -->
+		<time datetime="{{ post.date | date: "%d-%m-%Y" }}">
+			{{ post.date | date: "%d" }}
+			{% assign month = post.date | date: '%-m' %}
+			{% case month %}
+			  {% when '1' %}tháng 1,
+			  {% when '2' %}tháng 2,
+			  {% when '3' %}tháng 3,
+			  {% when '4' %}tháng 4,
+			  {% when '5' %}tháng 5,
+			  {% when '6' %}tháng 6,
+			  {% when '7' %}tháng 7,
+			  {% when '8' %}tháng 8,
+			  {% when '9' %}tháng 9,
+			  {% when '10' %}tháng 10,
+			  {% when '11' %}tháng 11,
+			  {% when '12' %}tháng 12,
+			{% endcase %}
+			{{ post.date | date: "%Y" }}
+		</time>
 	</small>
 </div>
 {% if post.image %}
