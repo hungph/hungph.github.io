@@ -301,7 +301,8 @@ output {
 details {
   background-color: #f1f1f1;
   font-size: 1rem;
-  padding: 10px; }
+  padding: 10px;
+  border-radius: 5px; }
 
 details:focus {
   outline: none; }
