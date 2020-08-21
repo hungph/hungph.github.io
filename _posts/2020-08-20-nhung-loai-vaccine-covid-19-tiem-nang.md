@@ -10,11 +10,11 @@ tags: [bài dịch, tiếng anh, vaccine, covid-19]
 > Bài gốc: [These are the top coronavirus vaccines to watch](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-update-coronavirus/)
 
 ![Các bước thử nghiệm vaccine](https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/vaccine-covid-19-1.png){:height="auto" width="100%"}
-> Tiền lâm sàng: Hơn 170 loại vaccine đang được thử nghiệm trên động vật và trong môi trường thí nghiệm
-> Giai đoạn 1: Hơn 15 loại vaccine đang được kiểm thử trên nhóm nhỏ những người khoẻ mạnh để kiểm tra mức độ an toàn và tìm ra liều lượng phù hợp
-> Giai đoạn 2: Có 3 loại vaccine đang được thử nghiệm trên một nhóm người đông hơn, bao gồm cả những người có nguy cơ mắc bệnh cao
-> Giao đoạn 3: Có 7 loại vaccine đang được thử nghiệm trên hàng ngàn người để kiểm tra mức độ hiệu quả và an toàn
-> Được chứng nhận: Hiện chưa có loại vaccine nào được chứng nhận có khả năng bảo vệ hiệu quả, tránh được những rủi ro tiềm ẩn
+> - Tiền lâm sàng: Hơn 170 loại vaccine đang được thử nghiệm trên động vật và trong môi trường thí nghiệm
+> - Giai đoạn 1: Hơn 15 loại vaccine đang được kiểm thử trên nhóm nhỏ những người khoẻ mạnh để kiểm tra mức độ an toàn và tìm ra liều lượng phù hợp
+> - Giai đoạn 2: Có 3 loại vaccine đang được thử nghiệm trên một nhóm người đông hơn, bao gồm cả những người có nguy cơ mắc bệnh cao
+> - Giao đoạn 3: Có 7 loại vaccine đang được thử nghiệm trên hàng ngàn người để kiểm tra mức độ hiệu quả và an toàn
+> - Được chứng nhận: Hiện chưa có loại vaccine nào được chứng nhận có khả năng bảo vệ hiệu quả, tránh được những rủi ro tiềm ẩn
 
 #### Tình hình hiện tại
 - 14 tháng 8, 2020: Mỹ sẽ chuẩn bị một chuẩn corona virus để dùng cho các đợt thử vaccine diện rộng
@@ -29,42 +29,42 @@ Những quốc gia khác sẽ có thể có những tiêu chuẩn khác để ch
 
 #### Tốc độ chưa từng có
 Từ tháng 1, những nhà nghiên cứu ở Mỹ đã thiết lập một dự án táo bạo để điều chế vaccine trong vòng từ 12 đến 18 tháng. Nếu thành công, đó sẽ là kỷ lục mới của thế giới. Vaccine chống quai bị hiện nay đang giữ kỷ lục là vaccine được điều chế và chứng nhận nhanh nhất, trong vòng 4 năm, từ lúc có những bằng chứng khoa học đến khi được cấp phép vào năm 1967. Trong khi đó, cho đến nay đã 36 năm, vaccine phòng HIV vẫn còn là 1 giấc mơ.
-![Thời gian để điều chế một số loại vaccine](assets/images/vaccine-covid-19-2.png){:height="auto" width="100%"}
+![Thời gian để điều chế một số loại vaccine](/assets/images/vaccine-covid-19-2.png){:height="auto" width="100%"}
 Các loại vaccine ngừa corona virus đang có tốc độ nhanh hơn, một phần vì các chính phủ đang rót những khoảng đầu tư mạo hiểm vào công việc điều chế này. Theo dự án Operation Warp Speed, chính phủ Mỹ đã đầu tư 95 tỉ đô để đẩy nhanh quá trình phát triển, để tiến tới sản xuất hàng loạt trước khi quá trình nghiên cứu kết thúc.
 
 #### Những công nghệ mới
 Những tiến bộ khoa học công nghệ đã cung cấp cho các nhà nghiên cứu những công cụ mới trong việc cố gắng chống lại loại corona virus này. Họ có thể đưa những vật liệu di truyền vào trong nhân tế bào, biến chúng thành nhà máy sản xuất vaccine và bỏ qua được những bước tốn thời gian nhưng sản xuất protein định hướng hay phải nuôi cấy virus trong trứng gà.
-![Các công nghệ điều chế vaccine](assets/images/vaccine-covid-19-4.png){:height="auto" width="100%"}
+![Các công nghệ điều chế vaccine](/assets/images/vaccine-covid-19-4.png){:height="auto" width="100%"}
 Nhân của corona virus SARS-CoV-2 là một chuỗi đơn acid ribonucleic (RNA) được bao bọc bởi một bức màng protein. Tên virus được lấy từ những chiếc gai bao bọc thân thể nó có hình giống chiếc vương miện, "corona" trong tiếng Latin. Những protein hình gai này không phải là vật để trang trí. Chúng được dùng để virus có thể thâm nhập vào bên trong tế bào và tự nhân bản.
 Các loại vaccine hoạt động bằng cách dạy hệ miễn dịch của cơ thể nhận biết và ngăn chặn virus. Tất cả chúng đều dựa trên các nguyên tắc căn bản. Vaccine có nhiệm vụ kích hoạt tế bào T-helper của hệ miễn dịch, đây là những tế bào có nhiệm vụ phát hiện sự hiện diện của virus. Chúng sẽ hướng dẫn các tế bào B tạo ra những kháng thể để ngăn chặn virus tự nhân bản và những tế bào T-killer sẽ tiêu diệt các tế bào bị nhiễm bệnh. Một số loại vaccine chỉ có thể kích hoạt một phần của chuỗi phản ứng miễn dịch này.
-![Các công nghệ điều chế vaccine](assets/images/vaccine-covid-19-5.png){:height="auto" width="100%"}
+![Các công nghệ điều chế vaccine](/assets/images/vaccine-covid-19-5.png){:height="auto" width="100%"}
 Dưới đây chúng ta sẽ thấy những loại vaccine dùng công nghệ khác nhau đang được phát triển trên khắp thế giới nhằm kích hoạt những phản ứng miễn dịch trong cơ thể người để ngăn chặn SARS-CoV-2. Mỗi loại vaccine sẽ có cách hoạt động khác nhau, nhưng đều tuân theo những nguyên tắc kể trên.
 
 #### Vaccine dùng acid nucleic (DNA và RNA)
 Các loại vaccine này chứa vật liệu di truyền có bản thiết kế của loại protein hình gai bao bọc bên ngoài virus. Để đưa DNA vào trong tế bào, các nhà nghiên cứu dòng một xung điện từ để phá vỡ lớp màng tế bào. Sau khi thâm nhập vào được, DNA sẽ được dùng như bản sao để tạo ra loại protein gai này.
-![Acid nucleic vaccine](assets/images/vaccine-covid-19-6.png){:height="auto" width="100%"}
+![Acid nucleic vaccine](/assets/images/vaccine-covid-19-6.png){:height="auto" width="100%"}
 Vaccine RNA chứa một chuỗi vật liệu di truyền nằm trong một bong bóng chất béo (fat bubble). Một khi đã vào bên trong tế bào, RNA tạo ra loại protein tìm thấy trền bề mặt của virus.
 Hệ miễn dịch với sự hiện diện của các protein này, có thể học để nhận biết được virus.
 Những loại vaccine này có thể được thiết kế và sản xuất nhanh chóng. Nhưng chúng sẽ chỉ được dùng trong các cơ sở y tế và phải tiêm 2 liều để có thể tạo ra miễn dịch hoàn toàn.
-![Những công ty đang điều chế](assets/images/vaccine-covid-19-7.png){:height="auto" width="100%"}
+![Những công ty đang điều chế](/assets/images/vaccine-covid-19-7.png){:height="auto" width="100%"}
 
 #### Vaccine sử dụng virus định hướng (Viral-vectored vaccines)
 Một số loại vaccine sử dụng một virus đã được làm suy yếu và vô hại để đẩy bộ gen của corona virus vào bên trong các tế bào. Những đoạn gen nào chứng tính chất đặc trưng của virus, và hệ miễn dịch sẽ dựa vào chúng để học và nhận diện virus.
-![Viral-vectored vaccine](assets/images/vaccine-covid-19-8.png){:height="auto" width="100%"}
+![Viral-vectored vaccine](/assets/images/vaccine-covid-19-8.png){:height="auto" width="100%"}
 Loại vaccine này cũng dễ dàng điều chế. Tuy nhiên có một hạn chế là cơ thể người có thể miễn dịch luôn với các virus định hướng được đưa vào, dẫn đến những mũi tiêm tăng cường sau này trở nên kém hiệu quả hơn.
-![Những công ty đang điều chế](assets/images/vaccine-covid-19-9.png){:height="auto" width="100%"}
+![Những công ty đang điều chế](/assets/images/vaccine-covid-19-9.png){:height="auto" width="100%"}
 
 #### Vaccine thành phần (Subunit vaccines)
 Một số loại vaccine sử dụng phương pháp truyền thống bằng cách đẩy những protein định hướng vào trong tế bào.
-![Viral-vectored vaccine](assets/images/vaccine-covid-19-10.png){:height="auto" width="100%"}
+![Viral-vectored vaccine](/assets/images/vaccine-covid-19-10.png){:height="auto" width="100%"}
 Có nhiều cách để sản xuất các loại protein này, thường dùng nhất là sử dụng tế bào côn trùng và nấm men. Vaccine viêm gan B cũng dựa trên một loại protein định hướng được tạo ra bằng một loại nấm men biến đổi gen.
-![Những công ty đang điều chế](assets/images/vaccine-covid-19-11.png){:height="auto" width="100%"}
+![Những công ty đang điều chế](/assets/images/vaccine-covid-19-11.png){:height="auto" width="100%"}
 
 #### Vaccine sử dụng virus được làm yếu hoặc bất hoạt
 Theo cách truyền thống hơn, virus được làm yếu đi đến mức không thể gây hại cho cơ thể nhưng vẫn có khả năng kích hoạt khả năng phòng vệ của hệ miễn dịch. Các loại vaccine cho bệnh sởi, quai bị, rubella dùng cơ chế này.
 Vacine dùng virus bất hoạt dùng các virus đã chết, không còn khả năng gây hại cho con người nhưng vẫn có khả năng giúp hệ miễn dịch tìm ra cách phòng vệ để chống lại virus. Vaccine ngừa bại liệt phát minh bởi Jonas Salk và vaccine cúm dùng phương pháp này.
-![Viral-vectored vaccine](assets/images/vaccine-covid-19-12.png){:height="auto" width="100%"}
+![Viral-vectored vaccine](/assets/images/vaccine-covid-19-12.png){:height="auto" width="100%"}
 Những loại vaccine này cần rất nhiều thời gian để điều chế và đi vào sản xuất hàng loạt.
-![Những công ty đang điều chế](assets/images/vaccine-covid-19-13.png){:height="auto" width="100%"}
+![Những công ty đang điều chế](/assets/images/vaccine-covid-19-13.png){:height="auto" width="100%"}
 
 Tác giả: Aaron Steckelberg, Carolyn Y. Johnson, Gabriel Florit và Chris Alcantara, báo The Washington Post. 
