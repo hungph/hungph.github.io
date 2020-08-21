@@ -303,15 +303,18 @@ details {
   font-size: 1rem;
   padding: 10px; }
 
-details[open] {
-  box-sizing: content-box;
-}
+details:focus {
+  outline: none; }
 
 summary {
   display: list-item;
   cursor: pointer;
   font-size: 1rem;
   color: #6c757d; }
+
+summary:focus {
+  outline: none;
+}
 
 template {
   display: none; }

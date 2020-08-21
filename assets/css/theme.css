@@ -663,7 +663,7 @@ article {
     color: #222222;
 }
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-	margin-bottom:2rem;
+	margin-bottom:0.5rem;
 }
 article blockquote {
 	padding-left:40px;
@@ -683,9 +683,9 @@ article blockquote:before {
 }
 article:first-letter {
 	float:left;
-	font-size:5em;
+	font-size:3.6em;
 	line-height:1;
-	margin:0 .2em 0 0;
+	margin:0 .1em 0 0;
 	vertical-align:top;
 }
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
