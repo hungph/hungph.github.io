@@ -298,9 +298,20 @@ progress {
 output {
   display: inline-block; }
 
+details {
+  background-color: #f1f1f1;
+  font-size: 1rem;
+  padding: 10px; }
+
+details[open] {
+  box-sizing: content-box;
+}
+
 summary {
   display: list-item;
-  cursor: pointer; }
+  cursor: pointer;
+  font-size: 1rem;
+  color: #6c757d; }
 
 template {
   display: none; }
