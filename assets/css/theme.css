@@ -651,10 +651,11 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:1.12px;
 	line-height:1.86;
-    font-family:Lato;
-}
+	font-family:Lato;
+	text-align: justify;}
+
 .article-headline {
     font-family:  "Lato", "Roboto",serif;
     font-size: 2.6rem;
@@ -670,6 +671,7 @@ article blockquote {
 	margin-left:0px;
 	font-style:italic;
 	position:relative;
+	color: #5f6769;
 }
 article blockquote:before {
 	content:"“";
