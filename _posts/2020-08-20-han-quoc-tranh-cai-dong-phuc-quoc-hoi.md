@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "[Tiêu điểm thế giới] \"Trang phục thể hiện quyền lực của quốc hội\", \"Phải mặc đúng nơi đúng lúc\" ... Những ý kiến trái chiều"
-author: Hung Phan
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/020/2020/08/08/0003302240_001_20200808050204298.jpg?type=w430
 tags: [bài dịch, hàn quốc, trang phục, quốc hội, quyền lực]
 ---
+**Việc nghị sỹ đảng Công lý 류호정 mặc chiếc váy đỏ chấm bi đã dấy lên một cuộc tranh luận gay gắt về trang phục mặc tại Quốc hội.**
+
 > Bài gốc: [[글로벌 포커스]“정장 입는다고 국회 권위 서나”… “장소에 맞게 입어야” 반론도](https://n.news.naver.com/article/020/0003302240)
 
 ![Tranh cãi về trang phục dự quốc hội ở các nước](https://imgnews.pstatic.net/image/020/2020/08/08/0003302240_001_20200808050204298.jpg?type=w430){:height="auto" width="100%"}
