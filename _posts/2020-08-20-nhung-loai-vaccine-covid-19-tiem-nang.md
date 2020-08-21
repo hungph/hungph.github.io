@@ -8,6 +8,7 @@ tags: [bài dịch, tiếng anh, vaccine, covid-19]
 **Chúng tôi đang theo dõi hơn 200 loại vaccine đang được thử nghiệm nhằm ngăn chặn cơn đại dịch hiện nay, một nhiệm vụ khoa học đang được thúc đẩy với tốc độ nhanh chóng hơn bao giờ hết**
 
 > Bài gốc: [These are the top coronavirus vaccines to watch](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-update-coronavirus/)
+> Bảng biểu trong bài dịch đã được cắt gọn đi, chi tiết xin mời xem bài gốc.
 
 ![Các bước thử nghiệm vaccine](https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/vaccine-covid-19-1.png){:height="auto" width="100%"}
 > - Tiền lâm sàng: Hơn 170 loại vaccine đang được thử nghiệm trên động vật và trong môi trường thí nghiệm
