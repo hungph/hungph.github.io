@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Tiêu điểm thế giới] \"Trang phục thể hiện quyền lực của quốc hội\", \"Phải mặc đúng nơi đúng lúc\" ... Những ý kiến trái chiều"
+title:  "[Tiêu điểm] \"Trang phục thể hiện quyền lực của quốc hội\", \"Phải mặc đúng nơi đúng lúc\" ... Những ý kiến trái chiều"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/020/2020/08/08/0003302240_001_20200808050204298.jpg?type=w430
 tags: [bài dịch, hàn quốc, trang phục, quốc hội, quyền lực]
