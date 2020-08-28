@@ -11,12 +11,14 @@ tags: [bài dịch, tiếng anh, vaccine, covid-19]
 
 ![Các bước thử nghiệm vaccine](https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/vaccine-covid-19-1.png){:height="auto" width="100%"}
 > - Tiền lâm sàng: Hơn 170 loại vaccine đang được thử nghiệm trên động vật và trong môi trường thí nghiệm
-> - Giai đoạn 1: Hơn 15 loại vaccine đang được kiểm thử trên nhóm nhỏ những người khoẻ mạnh để kiểm tra mức độ an toàn và tìm ra liều lượng phù hợp
-> - Giai đoạn 2: Có 3 loại vaccine đang được thử nghiệm trên một nhóm người đông hơn, bao gồm cả những người có nguy cơ mắc bệnh cao
+> - Giai đoạn 1: Hơn 7 loại vaccine đang được kiểm thử trên nhóm nhỏ những người khoẻ mạnh để kiểm tra mức độ an toàn và tìm ra liều lượng phù hợp
+> - Giai đoạn 2: Có 12 loại vaccine đang được thử nghiệm trên một nhóm người đông hơn, bao gồm cả những người có nguy cơ mắc bệnh cao
 > - Giao đoạn 3: Có 7 loại vaccine đang được thử nghiệm trên hàng ngàn người để kiểm tra mức độ hiệu quả và an toàn
 > - Được chứng nhận: Hiện chưa có loại vaccine nào được chứng nhận có khả năng bảo vệ hiệu quả, tránh được những rủi ro tiềm ẩn
 
 #### Tình hình hiện tại
+- 27 tháng 8, 2020: Moderna và Pfizer đã đăng ký cho một nửa số lượng tình nguyện viên trên 30,000 người để thử nghiệm vaccine. 1/5 trong số đó là người da đen hoặc gốc Tây Ban Nha.
+- 27 tháng 8, 2020: Cục quản lý thực phẩm và thuốc của Mỹ đã thông báo sẽ có một cuộc họp của hội đồng cố vấn vào ngày 22 tháng 10 để thảo luận về vaccine phòng chống Covid-19
 - 14 tháng 8, 2020: Mỹ sẽ chuẩn bị một chuẩn corona virus để dùng cho các đợt thử vaccine diện rộng
 - 14 tháng 8, 2020: Moderna đã nhận được thoả thuận 1.5 tỷ đô để cung cấp 100 triệu liều vaccine.
 - 11 tháng 8, 2020: Nga thông báo vaccine chống corona virus "Sputnix V", tuyên bố bước đột phá trong cuộc đua vaccine trên toàn cầu mà chưa tiến hành hoàn tất giai đoạn 3.
