@@ -60,7 +60,7 @@ Mỳ gói cũng ngày càng phổ biến. Khi các hoạt động ngoài trời 
 </details>
 농심 cho biết "Khi thời gian người dân ở nhà ngày càng nhiều, nấu ăn tại nhà cũng ngày càng phổ biến, mỳ sẽ trờ thành món đồ ăn vặt hay một phần của bữa ăn gia đình hằng ngày".
 
-![Tỉ lệ tăng trưởng các loại mỳ](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_003_20200822093120125.jpg?type=w430)
+![Tỉ lệ tăng trưởng các loại mỳ](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_003_20200822093120125.jpg?type=w430){:height="auto" width="100%"}
 
 <details>
   <summary>Tiêu đề gốc</summary>
@@ -110,7 +110,7 @@ Món mỳ 짜파구리 trở nên nổi tiếng sau giải Oscar của phim Ký 
 </details>
 Theo 농심, với "việc thương hiệu mỳ của 농심 được đánh giá cao tại thị trường Mỹ, nơi vốn là chiến trường khốc liệt của các loại mỳ khác nhau trên toàn thế giới, đã thể hiện được vị trí của mỳ Hàn Quốc" thì công ty "sẽ tiếp tục tăng mức độ phổ bến của K-food trên thị trường toàn cầu thông qua các loại mỳ được bán ra bởi các công ty con tại nước ngoài của 농심, vốn có sự chuẩn bị tốt cho sự cạnh tranh về mùi vị, chất lượng và hệ thống sản xuất ở quy mô toàn cầu".
 
-![Mỳ 신라면 đenđen](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_004_20200822093120161.jpg?type=w430)
+![Mỳ 신라면 đen](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_004_20200822093120161.jpg?type=w430){:height="auto" width="100%"}
 <details>
   <summary>Tiêu đề gốc</summary>
   <p>세계 한국의 매운맛 전파</p>
