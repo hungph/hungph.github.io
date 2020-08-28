@@ -43,7 +43,9 @@ Do đó việc nghị sỹ 류호정 của đảng Công lý mặc chiếc váy 
   <p>금지하는 복장은 보다 구체적이다. 청바지, 티셔츠, 샌들, 트레이닝복은 적절치 않은 복장에 포함됐다. 브랜드 로고나 문구가 들어간 옷과 군복을 포함한 제복도 입어선 안 된다. 복장 규정을 어기면 회의실에서 퇴장당할 수 있다. 투표만 하는 등 회의실에 들어가되 자리에 앉지 않는 경우에는 복장 규정을 지키지 않아도 된다. </p>
 </details>
 Trên thế giới, những tranh cãi về trang phục của các nghị sỹ quốc hội cũng thường xuyên xảy ra. Ở những quốc gia nơi nghị viện đã có lịch sử lâu đời như Mỹ, Anh, Pháp... các quy định cũng được điều chỉnh qua những cuộc thảo luận để phù hợp với xu thế thời đại.
+
 Trong bộ quy tắc ứng xử và tiêu chuẩn của hạ viện Anh phát hành năm 2018 đã đề nghị "Business Dress", tức là sử dụng trang phục thoải mái khi làm việc tại công sở. Áo vét thì bắt buộc nhưng có thể không cần đeo cà vạt. Trước khi có bộ quy tắc này, cà vạt bắt buộc phải đeo.
+
 Những trang phục bị cấm cũng được nêu cụ thể. Theo đó, quần jeans, áo phông, giày sandals, quần áo tập thể thao được coi là những trang phục không phù hợp. Không được mặc đồng phục có in logo thương hiệu, có chữ in trên áo, kể cả quân phục. Nếu quy phạm quy định này, sẽ có thể bị đuổi ra khỏi phòng họp. Trong trường hợp chỉ bước vào phòng họp chứ không ngồi xuống lâu (ví dụ như bỏ phiếu) thì không cần tuân thủ những quy định này.
 
 <details>
@@ -52,6 +54,7 @@ Những trang phục bị cấm cũng được nêu cụ thể. Theo đó, quầ
   <p>금지 복장은 암묵적 규칙으로 존재한다. 남녀 모두 운동화나 발가락이 보이는 신발은 신지 않는다. 민소매 원피스는 2017년까지 부적절한 복장으로 통했지만 지금은 허용된다. CBS 여기자가 어깨를 드러난 옷을 입었다는 이유로 회의장에서 쫓겨나자 여성 의원들이 ‘민소매 금요일’ 운동을 벌이면서 기준이 바뀌었다.</p>
 </details>
 Ở Mỹ, nam nữ nghị sỹ sẽ có những quy định trang phục khác nhau. Theo quy định của hạ viện, nam nghị sỹ chỉ phải mặc sao cho phù hợp với truyền thống. Trong khi tại thượng viện, nhất định phải mặc quần dài, áo vét và thắt cà vạt. Trong thời gian hội họp, phải cởi bỏ áo khoác và mũ. Với các nữ nghị sỹ thì quy định thoáng hơn, chỉ cần mặc những "trang phục thích hợp".
+
 Tuy nhiên, có những quy tắc ngầm về những trang phục bị cấm. Cả nam lẫn nữ đềi không được mang giày thể thao hoặc giày để lộ ngón chân. Những chiếc váy không có tay áo từng được xem là trang phục không phù hợp cho đến tận năm 2017, bây giờ thì người ta được phép mặc chúng. Vụ việc nữ phóng viên đài CBS bị đuổi ra khỏi phòng họp chỉ vì mặc áo hở vai khiến các nữ nghị sỹ phát động chiến dịch "Ngày thứ sáu không tay áo" để vận động thay đổi các tiêu chuẩn về trang phục.
 
 <details>
@@ -72,6 +75,7 @@ Tại Pháp, quy định về trang phục được ban hành sau buổi phát b
   <p>프랑스에서는 2012년 세실 뒤플로 주택부 장관이 흰색 바탕의 푸른색 꽃무늬 원피스를 입고 국회 연설을 하자 일부 남성 의원들은 뒤플로 장관을 향해 휘파람을 불면서 희롱했다. 그의 옷차림을 두고 “단순히 일상에서 입는 옷이었을 뿐”이라는 옹호와 “성별을 지나치게 강조한 복장”이라는 비판이 팽팽히 맞섰다.</p>
 </details>
 Tranh cãi về quy định trang phục ở các quốc gia hiện vẫn còn đang tiếp diễn. Vào tháng 2 (năm nay, 2020), tại hạ viện Anh đã xảy ra tranh cãi về "áo trễ vai". Khi nghị sỹ Tracy Brabin đang phát biểu thì áo của bà bị lệch hẳn qua một bên để lộ vai phải, và những lời chỉ trích nhắm tới bà đã tuôn tới ào ạt, kiểu như "một kẻ nát rượu đang say xỉn va phải thùng rác". Sau đó, bà đang bán đấu giá chiếc áo đó, thu được 20200 bảng Anh và đem tặng cho một tổ chức của các nữ thiếu niên.
+
 Trong khi đó tại Pháp, năm 2012, khi bộ trưởng bộ nhà đất Cecil Duplo đang phát biểu trước quốc hội trong bộ váy hoa màu xanh với nền trắng, một số nam nghị sỹ ngồi phía sau bà đã huýt sáo trêu chọc. 2 luồng dư luận đã phát sinh tranh cãi với một bên ủng hộ thì "Đó đơn giản chỉ là trang phục hàng ngày", còn bên chỉ trích thì "Nó đã nhấn mạnh vào giới tính quá mức".
 
 <details>
@@ -84,7 +88,9 @@ Những mâu thuẫn của các chính trị gia cho thấy tầm quan trọng c
   <summary>Đoạn văn gốc</summary>
   <p>2017년 3월 1일(현지 시간) 도널드 트럼프 미국 대통령이 취임 후 첫 의회연설을 할 때 민주당 소속 여성 의원 66명이 흰옷을 맞춰 입고 본회의장에 들어섰다. 이들은 성명에서 “지난 한 세기 동안 여성이 이뤄온 놀라운 진전을 되돌리려는 트럼프 행정부의 시도를 막기 위해 힘을 모으자는 뜻에서 흰옷을 입었다”고 밝혔다. 1900년대 초 여성참정권 운동가들이 항의의 표시로 입었던 흰옷으로 연대의식을 강조한 것이다. 미국 역사상 최연소 여성 하원의원인 알렉산드리아 오카시오코르테스(29·뉴욕)도 지난해 초 여성운동가 선후배를 기리는 의미로 흰옷을 입고 취임식에 등장해 눈길을 끌었다.</p>
 </details>
-Ngày 1, tháng 3, năm 2017, khi tổng thống Donald Trump có bài phát biểu trước hạ thượng viện Mỹ sau khi nhậm chức, 66 nữ nghị sỹ của đảng Dân chủ đã mặc áo trắng bước vào sảnh nghị viện. Họ phát biểu rằng "Chúng tôi mặc áo trắng để cùng nhau ngăn cản những nỗ lực của chính quyền Trump nhằm đảo ngược những tiến bộ vượt bậc mà phụ nữ đã đạt được trong một thế kỷ qua". Bộ đồ màu trắng này là dấu hiệu thể hiện sự đoàn kết mạnh mẽ của những nhà vận động cho quyền bầu cử của phụ nữ vào những năm 1900. Nữ nghị sỹ trẻ nhất trong lịch sử nước Mỹ Alexandria Ocasis-Cortez (29 tuổi, New York) cũng đã thu hút sự chú ý khi mặc áo trắng trong buổi lễ nhậm chức hồi năm ngoái nhằm tôn vinh những nhà vận động nữ quyền.
+Ngày 1, tháng 3, năm 2017, khi tổng thống Donald Trump có bài phát biểu trước hạ thượng viện Mỹ sau khi nhậm chức, 66 nữ nghị sỹ của đảng Dân chủ đã mặc áo trắng bước vào sảnh nghị viện. Họ phát biểu rằng "Chúng tôi mặc áo trắng để cùng nhau ngăn cản những nỗ lực của chính quyền Trump nhằm đảo ngược những tiến bộ vượt bậc mà phụ nữ đã đạt được trong một thế kỷ qua". Bộ đồ màu trắng này là dấu hiệu thể hiện sự đoàn kết mạnh mẽ của những nhà vận động cho quyền bầu cử của phụ nữ vào những năm 1900. 
+
+Nữ nghị sỹ trẻ nhất trong lịch sử nước Mỹ Alexandria Ocasis-Cortez (29 tuổi, New York) cũng đã thu hút sự chú ý khi mặc áo trắng trong buổi lễ nhậm chức hồi năm ngoái nhằm tôn vinh những nhà vận động nữ quyền.
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -92,6 +98,7 @@ Ngày 1, tháng 3, năm 2017, khi tổng thống Donald Trump có bài phát bi�
   <p>앞서 6·15 남북 공동선언 20주년 기념식 영상 메시지에서는 2000년 6·15선언 당시 김대중 전 대통령이 맸던 넥타이를 착용했다. 청와대 관계자는 “김 전 대통령의 아들인 김홍걸 의원으로부터 넥타이를 전달받았다”며 “김 전 대통령의 의지를 계승해 발전시키겠다는 뜻을 담았다”고 말했다.</p>
 </details>
 Với những chính trị gia nam, cà vạt cũng thường xuyên được sử dụng như một phương tiện truyền đạt những thông điệp chính trị. Trong diễn văn khai mạc kỳ họp quốc hội lần thứ 21, tổng thống 문재인 đã đeo một chiếc cà vạt trộn lẫn 4 màu tượng trưng cho từng đảng phái chính trị ở Hàn Quốc (màu xanh dương của đảng Dân chủ, màu hồng của đảng Tương lai thống nhất, màu vàng của đảng Công lý, màu cam của đảng Nhân dân) để thể hiện ý chí hợp nhất, đoàn kết các đảng phái với nhau.
+
 Trước đó trong đoạn video tại lễ kỷ niệm 20 năm tuyên bố chung liên Triều ngày 15/6, cựu tổng thống 김대중 cũng đã đeo lại chiếc cà vạt mà ông đã đeo tại thời điểm diễn ra tuyên bố chung này ngày 15/6/2000. Một quan chức Nhà Xanh cho biết "Chiếc cà vạt được con trai cựu tổng thống Kim, nghị sỹ 김홍걸, gửi tới" và "nó hàm ý rằng ý chí của cựu tổng thống Kim sẽ được kế thừa và phát triển hơn nữa".
 
 Phóng viên 조유라 (jyr0101@donga.com), 김지현, báo 동아일보. 
