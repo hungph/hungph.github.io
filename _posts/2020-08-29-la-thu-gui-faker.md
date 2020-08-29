@@ -9,8 +9,8 @@ tags: [bài dịch, hàn quốc, faker, lol, lá thư]
 
 > Bài gốc: [연세대학교 대나무숲 - 연대숲 #68691번째 외침](https://www.facebook.com/yonseibamboo/posts/1513225598886789)
 
-![Faker với tướng Twisted Fate đạt MVP trong ván 2 trận đấu vòng Wildcard LCK mùa hè 2020 với đội tuyển AF](https://image.chosun.com/sitedata/image/202008/27/2020082701858_0.jpg){:height="auto" width="100%"}
-> Faker với tướng Twisted Fate đạt MVP trong ván 2 trận đấu vòng Wildcard LCK mùa hè 2020 với đội tuyển AF
+![Faker với tướng Twisted Fate đạt MVP trong ván 2 trận đấu vòng Wildcard LCK mùa hè 2020 với đội tuyển Afreeca](/assets/images/letter-for-faker-1.jpg){:height="auto" width="100%"}
+> Faker với tướng Twisted Fate đạt MVP trong ván 2 trận đấu vòng Wildcard LCK mùa hè 2020 với đội tuyển Afreeca
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -36,4 +36,4 @@ Mặc dù em nhỏ hơn tôi một tuổi, nhưng với tôi, em thực sự là
 Ngày 19 tháng 8 năm 2020
 Giấc mơ từ một fan của tuyển thủ 이상혁
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyonseibamboo%2Fposts%2F1513225598886789&show_text=true&width=552&appId=416562472149564&height=651" width="100%" height="651" style="border:none;overflow:hidden;width:100%;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyonseibamboo%2Fposts%2F1513225598886789&show_text=true&width=552&appId=416562472149564&height=651" width="100%" height="651" style="border:none;overflow:hidden;width:100%;height:651px;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
