@@ -3,7 +3,7 @@ layout: post
 title:  "Cả thế giới nấu ăn ở nhà mùa Covid-19. Dân Mỹ hay dân Hàn đều ăn mỳ ở nhà"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_001_20200822093120056.jpg?type=w430
-tags: [bài dịch, hàn quốc, nấu ăn, mỳ, ramen, covid-1919]
+tags: [bài dịch, hàn quốc, nấu ăn, mỳ, ramen, covid-19]
 ---
 **Trong nửa đầu năm nay, thị trường mỳ nội địa Hàn Quốc đã tăng lên 1.13 nghìn tỷ won, cao nhất từ trước tới giờ, riêng kênh bán hàng trực tuyến (online) doanh thu tăng gấp 2 lần. Những loại mỳ như 신라면, 짜파게티 đều tăng trưởng ở mức 2 con số. Tại Mỹ, tờ New York Times đã bình chọn mỳ 신라면 đen là món mỳ ngon nhất thế giới**
 <details>
@@ -40,13 +40,13 @@ Theo số liệu do 농심 công bố ngày 22/8 vừa qua về xu hướng th�
   <summary>Đoạn văn gốc</summary>
   <p>또한 비대면(언택트) 소비가 확산하면서 온라인에서 라면을 주문하는 소비자들도 늘어났다. 라면은 제품 특성상 주로 대형마트나 집 근처 편의점, 슈퍼마켓에서 구매가 이뤄지기 때문에 온라인 판매 비중은 크지 않다. 하지만 코로나19로 소비자들의 장보기가 온라인으로 옮겨가면서 농심의 온라인 라면 판매도 증가했다.</p>
 </details>
-Ngoài ra, với xu hướng mua hàng không tiếp xúc, tránh gặp mặt, ngày càng nhiều khách hàng chọn đặt mua mỳ qua các kênh bán hàng trực tuyến. Thông thường, tỷ trọng mua mỳ trực tuyến thường không lớn, dodo khách hàng sẽ mua mỳ ở các đại siêu thị, cửa hàng tiện lợi hay các siêu thị gần nhà. Tuy nhiên, vì đại dịch Covid-19, 농심 cũng ghi nhận sự tăng trưởng trong việc tiêu thụ mỳ thông qua các kênh mua hàng trực tuyến khi càng có nhiều người chuyển lên mua mỳ online.
+Ngoài ra, với xu hướng mua hàng không tiếp xúc, tránh gặp mặt, ngày càng nhiều khách hàng chọn đặt mua mỳ qua các kênh bán hàng trực tuyến. Thông thường, tỷ trọng mua mỳ trực tuyến thường không lớn, do khách hàng sẽ mua mỳ ở các đại siêu thị, cửa hàng tiện lợi hay các siêu thị gần nhà. Tuy nhiên, vì đại dịch Covid-19, 농심 cũng ghi nhận sự tăng trưởng trong việc tiêu thụ mỳ thông qua các kênh mua hàng trực tuyến khi càng có nhiều người chuyển lên mua mỳ online.
 
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>농심은 자체 출고데이터 기준, 올해 상반기 국내 라면매출 중 온라인 채널에 판매한 매출은 약 400억원 수준으로 전년 대비 2배 가까이 증가했다고 밝혔다. 소셜커머스에서부터 오픈마켓까지 국내 주요 온라인 채널에서 골고루 매출이 늘었다.</p>
 </details>
-Dựa trên số liệu 농심 công bố, trong nửa đầu năm nay, doanh thu bán hàng trên các kênh trực tuyến của họ, mạng xã hội, các kênh mua bán tự dodo đạt được khoảng 40 tỷ won, tăng gần gấp đôi so với năm ngoái. 
+Dựa trên số liệu 농심 công bố, trong nửa đầu năm nay, doanh thu bán hàng trên các kênh trực tuyến của họ, mạng xã hội, các kênh mua bán tự do đạt được khoảng 40 tỷ won, tăng gần gấp đôi so với năm ngoái. 
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -58,7 +58,7 @@ Mỳ gói cũng ngày càng phổ biến. Khi các hoạt động ngoài trời 
   <summary>Đoạn văn gốc</summary>
   <p>농심 관계자는 “집에 머무르는 시간에 늘어나면서 이른바 집쿡(집에서 요리)이 일상화됐고, 라면도 간식의 개념에서 벗어나 식사나 요리개념으로 자리 잡게 됐다”고 말했다.</p>
 </details>
-농심 cho biết "Khi thời gian người dân ở nhà ngày càng nhiều, nấu ăn tại nhà cũng ngày càng phổ biến, mỳ sẽ trờ thành món đồ ăn vặt hay một phần của bữa ăn gia đình hằng ngày".
+농심 cho biết "Khi thời gian người dân ở nhà ngày càng nhiều, nấu ăn tại nhà cũng ngày càng phổ biến, mỳ sẽ trởở thành món đồ ăn vặt hay một phần của bữa ăn gia đình hằng ngày".
 
 ![Tỉ lệ tăng trưởng các loại mỳ](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_003_20200822093120125.jpg?type=w430){:height="auto" width="100%"}
 
@@ -129,6 +129,6 @@ Theo 농심, với "việc thương hiệu mỳ của 농심 được đánh gi�
   <p>농심 관계자는 “2005년 LA공장을 가동하고 10여년 간 서부 및 교포 시장을 중심으로 판매망을 넓혀왔다면, 지금은 동부 대도시를 비롯해 북부 알래스카, 태평양 하와이까지 미국 전역에 유통망을 구축했다”며 “신라면은 이제 한인 사회를 넘어 미국 소비자들이 먼저 알고 사가는 글로벌 제품 대열에 올랐다”고 강조했다.</p>
   <p>한편 농심은 중국과 미국, 일본, 동남아, 유럽 등 전 세계 약 100여개 국가에 라면을 수출하고 있다. 신라면은 대표적인 K푸드로 세계에 한국의 매운맛을 전파하고 있으며, 연간 국내외 약 7600억원의 매출을 올리고 있다.</p>
 </details>
-> Đoạn này giới thiệu lịch sử công ty 농심 nên không dịch
+> Đoạn này giới thiệu lịch sử công ty 농심 nên không dịch.
 
 Phóng viên 이선애 (lsa@asiae.co.kr)
