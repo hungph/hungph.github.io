@@ -49,7 +49,7 @@ Ngày 30/8, cô Kim cũng đã nói rằng "Tôi đã suy nghĩ rất nhiều v�
 
 "Tôi rất tức giận khi thấy những người lớn sống ích kỷ, cố tình bỏ qua và vi phạm những quy tắc phòng dịch trong thời điểm hiện tại", thêm nữa "Tôi đã tự nhủ rằng mình sẽ chơi cùng con nhiều hơn để tạo thêm niềm vui cho chúng dù rằng rất khó khăn".
 
-Trong cuốn tập, cũng có vẽ lên sơ đồ ghi nhớnhớ của con gái cô, đứa bé đã viết "đeo khẩu trang" và "giữ khoảng cách" trong khu vực những việc phải làm ở trường học.
+Trong cuốn tập, cũng có vẽ lên sơ đồ ghi nhớ của con gái cô, đứa bé đã viết "đeo khẩu trang" và "giữ khoảng cách" trong khu vực những việc phải làm ở trường học.
 
 Trong khu vực những việc làm cùng với gia đình, em đã viết "Chơi ở nhà". Và không biết có phải mùa hè năm nay mưa liên miên không ngớt, mà em đã viết vào "Theo dõi dự báo thời tiết trên Internet".
 
