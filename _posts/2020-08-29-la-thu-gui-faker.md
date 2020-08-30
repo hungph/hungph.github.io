@@ -33,7 +33,7 @@ Tôi là một đứa rất mê chơi game, tôi chơi LMHT từ những năm c�
 
 Mặc dù em nhỏ hơn tôi một tuổi, nhưng với tôi, em thực sự là một con người vĩ đại. Một số người nói rằng, vinh quang của em đã nằm lại ở quá khứ, em cũng đã không còn ở đỉnh cao phong độ nữa. Nhưng với tôi, điều đó đúng hay sai không quan trọng. Tôi sẽ không bao giờ quên được những cảm giác tôi đã có được nhờ em, và cho dù em ở đâu, làm gì, tôi cũng sẽ luôn ủng hộ em.
 
-Đây chỉ là một bức thư không liền mạch những cảm xúc, nhưng nếu em có thể đọc được nó, tôi mong em có thể dễ chịu đi một chút, giữa một rừng những bình luận ác ý đang công kích vào em.
+Đây chỉ là một bức thư với một mớ cảm xúc hỗn độn, nhưng nếu em có thể đọc được nó, tôi mong em có thể dễ chịu đi một chút, giữa một rừng những bình luận ác ý đang công kích vào em.
 
 Ngày 19 tháng 8 năm 2020
 Giấc mơ từ một fan của tuyển thủ 이상혁
