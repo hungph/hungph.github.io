@@ -58,7 +58,7 @@ Mỳ gói cũng ngày càng phổ biến. Khi các hoạt động ngoài trời 
   <summary>Đoạn văn gốc</summary>
   <p>농심 관계자는 “집에 머무르는 시간에 늘어나면서 이른바 집쿡(집에서 요리)이 일상화됐고, 라면도 간식의 개념에서 벗어나 식사나 요리개념으로 자리 잡게 됐다”고 말했다.</p>
 </details>
-농심 cho biết "Khi thời gian người dân ở nhà ngày càng nhiều, nấu ăn tại nhà cũng ngày càng phổ biến, mỳ sẽ trởở thành món đồ ăn vặt hay một phần của bữa ăn gia đình hằng ngày".
+농심 cho biết "Khi thời gian người dân ở nhà ngày càng nhiều, nấu ăn tại nhà cũng ngày càng phổ biến, mỳ sẽ trở thành món đồ ăn vặt hay một phần của bữa ăn gia đình hằng ngày".
 
 ![Tỉ lệ tăng trưởng các loại mỳ](https://imgnews.pstatic.net/image/277/2020/08/22/0004741026_003_20200822093120125.jpg?type=w430){:height="auto" width="100%"}
 
