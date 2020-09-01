@@ -37,8 +37,12 @@ Nhóm BTS cũng đã có 4 lần đứng đầu bảng xếp hạng album "Billb
 
 Phóng viên tại New York 백종민 (cinqange@asiae.co.kr), báo 아시아경제
 
+#### Cập nhật
 - Mới đây, tổng thống Hàn Quốc 문재인 cũng đã đăng bài chúc mừng nhóm BTS trên Twitter
 <blockquote class="twitter-tweet" data-lang="vi" data-theme="light"><p lang="und" dir="ltr"><a href="https://t.co/fwoGB71vZI">pic.twitter.com/fwoGB71vZI</a></p>&mdash; 문재인 (@moonriver365) <a href="https://twitter.com/moonriver365/status/1300609866155716608?ref_src=twsrc%5Etfw">1 tháng 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-> Nhóm BTS vừa viết lên một trang sử mới của K-pop khi là nhóm nhạc Hàn Quốc đầu tiên đạt được vị trí số 1 trên bảng xếp hạng Billboard Hot 100. Sau 4 lần đứng đầu bảng xếp hạng album Billboard 200, cuối cùng nhóm cũng đã chạm đến top 1 ở cả 2 bảng xếp hạng.
-> Điều này thật sự rất tuyệt vời. Một thành tích huy hoàng sẽ góp phần làm gia tăng niềm tự hào của K-pop. Bài hát "Dynamite" đứng đầu bảng xếp hạng, càng có ý nghĩa hơn khi nó được sáng tác để gửi đến một thông điệp an ủi, hy vọng cho tất cả mọi người trên khắp thế giới vốn đang phải vật lộn với đại dịch Covid-19.
-> Điều này cũng sẽ mang lại sự an ủi to lớn cho người dân Hàn Quốc với đang phải chịu đựng cuộc khủng hoảng nghiêm trọng gây ra bởi dịch Covid-19. Xin gửi lời chúc mừng chân thành của tôi đến nhóm.
+<blockquote> 
+<p>Nhóm BTS vừa viết lên một trang sử mới của K-pop khi là nhóm nhạc Hàn Quốc đầu tiên đạt được vị trí số 1 trên bảng xếp hạng Billboard Hot 100. Sau 4 lần đứng đầu bảng xếp hạng album Billboard 200, cuối cùng nhóm cũng đã chạm đến top 1 ở cả 2 bảng xếp hạng.</p>
+<p>Điều này thật sự rất tuyệt vời. Một thành tích huy hoàng sẽ góp phần làm gia tăng niềm tự hào của K-pop. Bài hát "Dynamite" đứng đầu bảng xếp hạng, càng có ý nghĩa hơn khi nó được sáng tác để gửi đến một thông điệp an ủi, hy vọng cho tất cả mọi người trên khắp thế 
+giới vốn đang phải vật lộn với đại dịch Covid-19.</p>
+<p>Điều này cũng sẽ mang lại sự an ủi to lớn cho người dân Hàn Quốc với đang phải chịu đựng cuộc khủng hoảng nghiêm trọng gây ra bởi dịch Covid-19. Xin gửi lời chúc mừng chân thành của tôi đến nhóm.</p>
+</blockquote>
