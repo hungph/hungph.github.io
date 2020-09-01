@@ -5940,7 +5940,7 @@ button.bg-lightblue:focus {
   width: 75% !important; }
 
 .w-100 {
-  width: 150px !important; }
+  width: 100% !important; }
 
 .w-auto {
   width: auto !important; }
