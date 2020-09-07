@@ -32,7 +32,7 @@ Các nhiếp ảnh gia trên khắp thế giới đã ghi lại được những
 
 ![LONDON, ANH](https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2020/07/departments/proof-views-from-quarantine/stock_aro2020003g3652.jpg){:height="auto" width="100%"}
 <blockquote> 
-<pLONDON, ANH</p>
+<p>LONDON, ANH</p>
 <p>Thời gian dần trôi trên những cánh hoa tàn (bình hoa cắm vào ngày của Mẹ, ngày 22 tháng 3 hàng năm ở Anh)</p>
 <p>Hình ảnh của OLIVIA ARTHUR, MAGNUM PHOTOS</p>
 </blockquote>
