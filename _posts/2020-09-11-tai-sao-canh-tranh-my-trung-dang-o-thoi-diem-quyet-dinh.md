@@ -1,5 +1,5 @@
 ---
-layout: _
+layout: post
 title:  "Tại sao sự cạnh tranh giữa Mỹ và Trung Quốc đang ở thời điểm mang tính bước ngoặt - Ý nghĩa của nó đối với các hoạt động thương mại"
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://content.fortune.com/wp-content/uploads/2020/08/wld_map_01-01.png
