@@ -3,7 +3,7 @@ layout: post
 title:  "Trong một thế giới ở giữa đại dịch Covid-19, chúng ta thấy gì"
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2020/07/departments/proof-views-from-quarantine/stock_20200321_camillaferrari_istayhome_9087.jpg
-tags: [bài dịch, tiếng anh, codid-19, thế giới, nhiếp ảnh]
+tags: [sticky, bài dịch, tiếng anh, codid-19, thế giới, nhiếp ảnh]
 ---
 **Nhiều nhiếp ảnh gia đã ghi lại được những khoảng khắc cuộc sống con người khi phải sống cô lập, cách ly với bên ngoài ở khắp nơi trên thế giới từ Tây Ban Nha đến Nam Phi, từ Anh cho đến Ý, từ Na Uy cho đến New York.**
 
