@@ -790,14 +790,16 @@ article h2.svelte-1v8l9dy.svelte-1v8l9dy {
     font-size: 0.9em;
     margin-bottom: 0.1em;
     font-weight: bold;
-    font-family: Lato, arial, sans-serif;
+	font-family: Lato, arial, sans-serif;
+	margin-top: 0rem;
 }
 
 article h3.svelte-1v8l9dy.svelte-1v8l9dy {
     font-size: 0.85em;
     opacity: 0.8;
     font-weight: normal;
-    font-family: Lato, arial, sans-serif;
+	font-family: Lato, arial, sans-serif;
+	margin-top: 0rem;
 }
 
 .alertbar {
