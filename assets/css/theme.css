@@ -734,13 +734,13 @@ article .box.svelte-1s43oii:before {
     width: 1px;
     height: 0;
     padding-bottom: 100%;
-    padding-bottom: calc(100% - var(--gap) + 1px);
+    padding-bottom: calc(100% - var(--gap) - 7px);
 }
 
 article .face.svelte-1v8l9dy.svelte-1v8l9dy {
     box-sizing: border-box;
     cursor: pointer;
-    background-color: #121212;
+    background-color: #ffffff;
     position: absolute;
     top: 0;
     left: 0;
@@ -760,6 +760,7 @@ article img.svelte-1v8l9dy.svelte-1v8l9dy {
 	width: 100%;
 	height: auto;
 	max-width: 100%;
+	border-radius: 0px;
 }
 
 article .tooltip.svelte-1v8l9dy.svelte-1v8l9dy {
