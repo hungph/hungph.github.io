@@ -708,7 +708,7 @@ article .twitter-tweet {
 
 article .layout.svelte-1s43oii {
     position: relative;
-    --gap: 5px;
+    --gap: 2px;
     display: grid;
     grid-template-columns: 8fr;
     grid-template-areas: "main notes";
@@ -779,6 +779,11 @@ article .tooltip.svelte-1v8l9dy.svelte-1v8l9dy {
     overflow: hidden;
     opacity: 0;
     transition: opacity 0.1s;
+}
+
+article .tooltip.svelte-1v8l9dy.svelte-1v8l9dy:hover {
+	opacity: 1;
+	transition: opacity 0.1s;
 }
 
 article h2.svelte-1v8l9dy.svelte-1v8l9dy {
