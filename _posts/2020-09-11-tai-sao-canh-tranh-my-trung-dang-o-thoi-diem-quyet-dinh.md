@@ -12,8 +12,8 @@ tags: [bài dịch, tiếng anh, Mỹ, Trung Quốc, thương chiến, cạnh tr
   <p>The U.S. is no longer the world’s only economic superpower. And as China passes a new milestone on the Global 500, the competition between the nations is intensifying. Here’s why the rivalry is at a crucial turning point—and what it means for business.</p>
 </details>
 
-> Bài gốc trên Apple News+: [Why the China-U.S. rivalry is at a crucial turning point—and what it means for business](https://apple.news/AMPdVSEt4R_CIV2z3x0nfYQ)
-> Bài gốc: [Why the China-U.S. rivalry is at a crucial turning point—and what it means for business](https://fortune.com/longform/us-china-relations-global-500-companies-trade-xi-trump-business/)
+> - Bài gốc trên Apple News+: [Why the China-U.S. rivalry is at a crucial turning point—and what it means for business](https://apple.news/AMPdVSEt4R_CIV2z3x0nfYQ)
+> - Bài gốc: [Why the China-U.S. rivalry is at a crucial turning point—and what it means for business](https://fortune.com/longform/us-china-relations-global-500-companies-trade-xi-trump-business/)
 
 ![Bản xếp hạng Global 500 của tạp chí Fortune](https://content.fortune.com/wp-content/uploads/2020/08/wld_map_01-01.png){:height="auto" width="100%"}
 <details>
