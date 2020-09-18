@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  \"Phân loại hàng hoá trong vòng 10 tiếng, nhưng không được trả công\", đã có 7 nhân viên giao hàng chết vì làm việc quá sức trong năm nay
+title:  "\"Phân loại hàng hoá trong vòng 10 tiếng, nhưng không được trả công\", đã có 7 nhân viên giao hàng chết vì làm việc quá sức trong năm nay"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/056/2020/09/13/0010900029_001_20200913141713212.jpg
 tags: [bài dịch, hàn quốc, giao hàng, phân loại, trả công, làm việc quá sức, chết]
@@ -13,6 +13,8 @@ tags: [bài dịch, hàn quốc, giao hàng, phân loại, trả công, làm vi�
 </details>
 
 > Bài gốc: [“10시간 분류작업이 무임금”…올해만 택배 기사 7명 ‘과로사’](https://n.news.naver.com/article/056/0010900029)
+
+![택배 탑](https://imgnews.pstatic.net/image/056/2020/09/13/0010900029_001_20200913141713212.jpg){:height="auto" width="100%"}
 
 <details>
   <summary>Đoạn văn gốc</summary>
