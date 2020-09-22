@@ -3,7 +3,7 @@ layout: post
 title:  "Bạn thật sự muốn sống ở đây sao? Giấc mơ California dần trở thành Thoả hiệp California."
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/calif-dream-1.png
-tags: [bài dịch, tiếng anh, california, cháy rừng, thoả hiệp, giấc mơ]
+tags: [featured, bài dịch, tiếng anh, california, cháy rừng, thoả hiệp, giấc mơ]
 ---
 **Bên dưới bầu trời của ngày tận thế, người dân suy ngẫm về giấc mơ California.**
 

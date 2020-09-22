@@ -3,7 +3,7 @@ layout: post
 title:  "\"Mùa xuân của con là chiếc khẩu trang\", người mẹ bật khóc khi nhìn thấy bức tranh của con gái mình"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/001/2020/08/30/AKR20200828133200065_01_i_P4_20200830073106605.jpg
-tags: [bài dịch, hàn quốc, mùa xuân, khẩu trang, trầm cảm, stress, covid-19]
+tags: [featured, bài dịch, hàn quốc, mùa xuân, khẩu trang, trầm cảm, stress, covid-19]
 ---
 **"Con tôi chỉ có thể ở trong nhà mùa dịch Covid-19" "Xin lỗi con vì mẹ không thể cùng con tạo ra những kỷ niệm tươi đẹp". Trẻ em cũng bị stress vì dịch bệnh kéo dài. "Cần sự cảm thông và tôn trọng sự riêng tư"**
 <details>

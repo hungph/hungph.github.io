@@ -3,7 +3,7 @@ layout: post
 title:  "Đây là những loại vaccine tiềm năng đang được phát triển để chống lại đại dịch Covid-19"
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/vaccine-covid-19-1.png
-tags: [bài dịch, tiếng anh, vaccine, covid-19]
+tags: [featured, bài dịch, tiếng anh, vaccine, covid-19]
 ---
 **Chúng tôi đang theo dõi hơn 200 loại vaccine đang được thử nghiệm nhằm ngăn chặn cơn đại dịch hiện nay, một nhiệm vụ khoa học đang được thúc đẩy với tốc độ nhanh chóng hơn bao giờ hết**
 
@@ -17,6 +17,9 @@ tags: [bài dịch, tiếng anh, vaccine, covid-19]
 > - Được chứng nhận: Hiện chưa có loại vaccine nào được chứng nhận có khả năng bảo vệ hiệu quả, tránh được những rủi ro tiềm ẩn
 
 #### Tình hình hiện tại
+- 21 tháng 9, 2020: Tổ chức y tế thế giới tiết lộ kế hoạch phân phối vaccine coronavirus cho toàn cầu.
+- 19 tháng 9, 2020: Moderna, Pfizer và AstraZeneca đã cho xuất bản chi tiết nghiên cứu của họ, chỉ ra cách họ kiểm tra tính an toàn và hiệu quả của các loại vaccine.
+- 19 tháng 9, 2020: Thử nghiệm của The AstraZeneca, vốn đã bị dừng lại sau khi một người thử nghiệm có phản ứng phụ, đã được khởi động lại ở Brazil, Ấn Độ và Anh. Ở Mỹ vẫn chưa cho phép bắt đầu lại.
 - 27 tháng 8, 2020: Moderna và Pfizer đã đăng ký cho một nửa số lượng tình nguyện viên trên 30,000 người để thử nghiệm vaccine. 1/5 trong số đó là người da đen hoặc gốc Tây Ban Nha.
 - 27 tháng 8, 2020: Cục quản lý thực phẩm và thuốc của Mỹ đã thông báo sẽ có một cuộc họp của hội đồng cố vấn vào ngày 22 tháng 10 để thảo luận về vaccine phòng chống Covid-19
 - 14 tháng 8, 2020: Mỹ sẽ chuẩn bị một chuẩn corona virus để dùng cho các đợt thử vaccine diện rộng

@@ -3,7 +3,7 @@ layout: post
 title:  "\"Phân loại hàng hoá trong vòng 10 tiếng, nhưng không được trả công\", đã có 7 nhân viên giao hàng chết vì làm việc quá sức trong năm nay"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/056/2020/09/13/0010900029_001_20200913141713212.jpg
-tags: [bài dịch, hàn quốc, giao hàng, phân loại, trả công, làm việc quá sức, chết]
+tags: [featured, bài dịch, hàn quốc, giao hàng, phân loại, trả công, làm việc quá sức, chết]
 ---
 **"Phân loại hàng hoá trong vòng 10 tiếng, nhưng không được trả công", đã có 7 nhân viên giao hàng chết vì làm việc quá sức trong năm nay.**
 
