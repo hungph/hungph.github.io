@@ -3,7 +3,7 @@ layout: post
 title:  "[Thế giới này vẫn còn đáng sống] Trong vòng 10 phút, có 3 người chạy đến giúp đỡ cụ già đang đẩy xe trên đường"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/005/2020/09/27/611211110015051581_1_20200927094604477.png
-tags: [bài dịch, hàn quốc, trung thu, quà tặng, bánh kẹo, snack, lotte, orion]
+tags: [bài dịch, hàn quốc, giúp đỡ, cụ già, người trẻ, ấm áp]
 ---
 **Trong vòng 10 phút, có 3 người chạy đến giúp đỡ cụ già đang đẩy xe trên đường.**
 
