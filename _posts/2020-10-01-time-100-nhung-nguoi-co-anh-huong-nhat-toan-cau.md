@@ -9,10 +9,11 @@ tags: [bài dịch, tiếng Anh, time 100, 2020, nhân vật, ảnh hưởng, to
 
 > Bài gốc: [TIME 100 - The 100 Most Infuential People of 2020](https://time.com/collection/100-most-influential-people-2020/)
 
+#### Amy O'Sullivan
+
 ![Amy O'Sullivan](https://api.time.com/wp-content/uploads/2020/09/time-100-Amy-OSullivan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Amy O'Sullivan - Ảnh bởi Paola Kudacki, TIME
 
-#### Amy O'Sullivan
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>FRONTLINE HERO</p>
@@ -32,10 +33,11 @@ Amy chỉ là một trong hàng triệu nhân viên y tế trên toàn cầu đa
 
 _Couric là phóng viên chiến thắng giải Emmy và sáng lập công ty truyền thông Katie Couric Media._
 
+#### Arussi Unda
+
 ![Arussi Unda](https://api.time.com/wp-content/uploads/2020/09/time-100-Arussi-Unda.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Arussi Unda - Ảnh bởi Victor Yanez, báo Reuters
 
-#### Arussi Unda
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>FEMINIST BELLWETHER</p>
@@ -58,10 +60,11 @@ Sự lãnh đạo của Arussi với tư cách người phát ngôn của tổ c
 
 _Cacho là một tác giả và phóng viên điều tra ở Mexico_
 
+#### Billy Porter
+
 ![Billy Porter](https://api.time.com/wp-content/uploads/2020/09/time-100-Billy-Porter.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Billy Porter - Ảnh bởi Paola Kudacki, TIME
 
-#### Billy Porter
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>THEATRICAL PHENOM</p>
@@ -84,10 +87,11 @@ Nhìn vào anh chàng này. Nếu bạn muốn thấy bằng chứng sống củ
 
 _Lauper là một ca-nhạc sỹ chiến thắng giải Emmy, Grammy và Tony_
 
+#### Sister Norma Pimentel
+
 ![Sister Norma Pimentel](https://api.time.com/wp-content/uploads/2020/09/time-100-Sister-Norma-Pimentel.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Sister Norma Pimentel - Ảnh bởi Valerie Chiang
 
-#### Sister Norma Pimentel
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>COMPASSIONATE GUARDIAN</p>
@@ -113,10 +117,11 @@ Niềm hy vọng vô bờ và lòng thương xót không có sự sợ hãi đã
 
 _Castro là cựu bộ trưởng phát triển nhà và đô thị Hoa Kỳ_
 
+#### Alicia Garza, Patrisse Cullors và Opal Tometi
+
 ![Alicia Garza, Patrisse Cullors and Opal Tometi](https://api.time.com/wp-content/uploads/2020/09/time-100-BLM-Alicia-Garza-Opal-Tometi-Patrisse-Cullors.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Alicia Garza, Patrisse Cullors và Opal Tometi - Ảnh bởi Kayla Reefer, TIME
 
-#### Alicia Garza, Patrisse Cullors và Opal Tometi
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>FOUNDERS OF BLACK LIVES MATTER</p>
@@ -148,11 +153,11 @@ Nhưng năm nay lại mang đến một cảm giác khác. Khi những đoạn c
 
 _Fulton là sáng lập của quỹ Trayvon Martin_
 
+#### Nury Turkel
 
 ![Nury Turkel](https://api.time.com/wp-content/uploads/2020/09/time-100-Nury-Turkel-1.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Nury Turkel - Ảnh bởi Courtesy Nury Turkel
 
-#### Nury Turkel
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>VOICE OF A PEOPLE</p>
@@ -172,11 +177,11 @@ Là một luật sự được đào tạo tại Mỹ, Nury đã làm việc kh�
 
 _Isa là chủ tịch của đại hội người Ngô Duy Nhĩ toàn cầu_
 
+#### Allyson Felix
 
 ![Allyson Felix](https://api.time.com/wp-content/uploads/2020/09/time-100-Allyson-Felix.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Allyson Felix - Ảnh bởi Patrick Smith, Getty Images
 
-#### Allyson Felix
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>LEVELING THE FIELD</p>
@@ -199,11 +204,11 @@ Sau khi cô ấy tiếp tục tiến bước, Nike đã cập nhật các chính
 
 _Turlington Burns là sáng lập của Every Mother Counts_
 
+#### Naomi Osaka
 
 ![Naomi Osaka](https://api.time.com/wp-content/uploads/2020/09/time-100-Naomi-Osaka.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Naomi Osaka - Ảnh bởi Danielle Parhizkaran, Reuters
 
-#### Naomi Osaka
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>ROLE MODEL</p>
@@ -241,11 +246,11 @@ Bạn cũng có thể.
 
 _Moore là một nhà hoạt động và nhà vô địch WNBA và Olympic_
 
+#### Angela Davis
 
 ![Angela Davis](https://api.time.com/wp-content/uploads/2020/09/time-100-Angela-Davis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Angela Davis - Ảnh bởi Djeneba Aduayom, TIME
 
-#### Angela Davis
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>REVOLUTIONARY CRUSADER</p>
@@ -274,11 +279,11 @@ Cách mạng là tình yêu.
 
 _Common là nhạc sỹ và nghệ sỹ thu âm đạt giải thưởng Emmy, Grammy và giải thưởng của viện Hàn lâm_
 
+#### Lina Attalah
 
 ![Lina Attalah](https://api.time.com/wp-content/uploads/2020/09/time-100-Lina-Attalah.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Lina Attalah - Ảnh bởi David Degner, TIME
 
-#### Lina Attalah
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>COURAGEOUS JOURNALIST</p>
@@ -307,11 +312,11 @@ Bạn sẽ không thể biết đã đi quá xa cho đến khi bạn thực hi�
 
 _Ressa là một phóng viên điều tra và đồng sáng lập của Rappler_
 
+#### David Hill
 
 ![David Hill](https://api.time.com/wp-content/uploads/2020/09/time-100-David-Hill.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > David Hill - Ảnh bởi Tulsa World
 
-#### David Hill
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>PROTECTING INDIGENOUS SOVEREIGNTY</p>
@@ -334,11 +339,11 @@ Chính phủ liên bang đã chấp nhận đối xử với một bộ tộc th
 
 _Davids là một nữ dân biểu đảng Dân Chủ đến từ Kansas và là thành viên của bộ tộc Ho-Chunk_
 
+#### Ady Barkan
 
 ![Ady Barkan](https://api.time.com/wp-content/uploads/2020/09/time-100-Ady-Barkan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Ady Barkan - Ảnh bởi Paola Kudacki, TIME
 
-#### Ady Barkan
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>HEALTH CARE WARRIOR</p>
@@ -367,11 +372,11 @@ Trong cuộc chiến vì công bằng xã hội, không dễ để có sự thay
 
 _Warren là một thượng nghị sỹ của đảng Dân chủ ở Massachusetts_
 
+#### Bilkis
 
 ![Bilkis](https://api.time.com/wp-content/uploads/2020/09/time-100-Bilkis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Bilkis - Ảnh bởi Anil Sharma, Alamy
 
-#### Bilkis
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>SYMBOL OF RESISTANCE</p>
@@ -394,11 +399,11 @@ Bà nói với tôi như một lời chia tay: "Tôi vẫn sẽ ngồi ở đây
 
 _Ayyub là một phóng viên người Ấn Độ và là tác giả của hồ sơ Gujara: Anatomy of a Cover Up_
 
+#### Felipe Neto
 
 ![Felipe Neto](https://api.time.com/wp-content/uploads/2020/09/time-100-Felipe-Neto.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Felipe Neto - Ảnh bởi AFP/Getty Images
 
-#### Felipe Neto
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>UNLIKELY POLITICAL POWERHOUSE</p>
@@ -427,10 +432,11 @@ Khi Felipe Neto nói, hàng triệu người lắng nghe. Và tiếng nói chín
 
 _Miranda là một nghị sỹ người Brazil đại diện cho Rio de Janeiro_
 
+#### Chi Chia-Wei
+
 ![Chi Chia-Wei](https://api.time.com/wp-content/uploads/2020/09/time-100-Chi-Chia-wei.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Chi Chia-Wei - Ảnh bởi Chris Stowers, Panos Pictures
 
-#### Chi Chia-Wei
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>EQUALITY TRAILBLAZER</p>
@@ -445,18 +451,20 @@ _Miranda là một nghị sỹ người Brazil đại diện cho Rio de Janeiro_
 
 Lời bình: Tsai Ing-Wen (Thái Anh Văn)
 
-Nếu hỏi bất cứ người nào đã tham dự "Niềm kiêu hãnh Đài Loan", họ có thể nói rõ cho bạn biết lần đầu tiên họ nhìn thấy Chi Chia-Wei, đứng phía trên cao đám đông và vẫy lá cờ cầu vồng. Hình ảnh ấy thể hiện cho những gì anh ấy mong muốn ở cộng đồng LGBTQ+ của Đài Loan: một biểu tượng hy vọng cho thế hệ tiếp theo, một sự hiện thân sống động cho ý tưởng rằng điều đó đang thật sự tốt đẹp hơn.
+Nếu hỏi bất cứ người nào đã tham dự "Niềm kiêu hãnh Đài Loan", họ có thể nói rõ cho bạn biết lần đầu tiên họ nhìn thấy Chi Chia-Wei, đứng phía trên cao đám đông và vẫy lá cờ cầu vồng. Hình ảnh ấy thể hiện cho những gì ông ấy mong muốn ở cộng đồng LGBTQ+ của Đài Loan: một biểu tượng hy vọng cho thế hệ tiếp theo, một sự hiện thân sống động cho ý tưởng rằng điều đó đang thật sự tốt đẹp hơn.
 
-Anh ấy bắt đầu vận động cho sự bình đẳng trong hôn nhân hàng thập kỷ qua, ở thời điểm mà việc vận động, tuyên truyền có thể bị đem đi bỏ tù ở Đài Loan. Bất chấp nguy hiểm, anh ấy liên tục đưa việc đòi quyền bình đẳng lên toà án, và sự kiên trì của anh đã dẫn đến một phán quyết của Đại thẩm phán yêu cầu chính phủ hợp pháp hoá hôn nhân đồng giới, vốn có hiệu lực từ năm 2019.
+Ông bắt đầu vận động cho sự bình đẳng trong hôn nhân hàng thập kỷ qua, ở thời điểm mà việc vận động, tuyên truyền có thể bị đem đi bỏ tù ở Đài Loan. Bất chấp nguy hiểm, ông liên tục đưa việc đòi quyền bình đẳng lên toà án, và sự kiên trì của ông đã dẫn đến một phán quyết của Đại thẩm phán yêu cầu chính phủ hợp pháp hoá hôn nhân đồng giới, vốn có hiệu lực từ năm 2019.
 
 Qua nhiều năm, Chi đã kiên cường chống lại những định kiến bằng lòng dũng cảm lớn hơn cả mạng sống. Tôi tự tin rằng Chi sẽ soi sáng con đường cho một tương lai nơi mọi người đều có quyền yêu và được yêu.
 
 _Tsai là tổng thống Đài Loan_
 
+
+#### Megan Rapinoe
+
 ![Megan Rapinoe](https://api.time.com/wp-content/uploads/2020/09/time-100-Megan-Rapinoe.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > Megan Rapinoe - Ảnh bởi Cait Oppermann, TIME
 
-#### Megan Rapinoe
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>UNBREAKABLE SPIRIT</p>
