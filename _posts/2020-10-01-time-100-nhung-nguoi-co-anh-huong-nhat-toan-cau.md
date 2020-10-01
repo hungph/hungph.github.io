@@ -11,9 +11,6 @@ tags: [bài dịch, tiếng Anh, time 100, 2020, nhân vật, ảnh hưởng, to
 
 #### Amy O'Sullivan
 
-![Amy O'Sullivan](https://api.time.com/wp-content/uploads/2020/09/time-100-Amy-OSullivan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Amy O'Sullivan - Ảnh bởi Paola Kudacki, TIME
-
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>FRONTLINE HERO</p>
@@ -27,6 +24,9 @@ tags: [bài dịch, tiếng Anh, time 100, 2020, nhân vật, ảnh hưởng, to
 
 Lời bình: Katie Couric
 
+![Amy O'Sullivan](https://api.time.com/wp-content/uploads/2020/09/time-100-Amy-OSullivan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Amy O'Sullivan - Ảnh bởi Paola Kudacki, TIME
+
 Âm thanh của tiếng còi báo động không phải là điều gì đó bất thường ở thành phố New York. Nhưng trong mùa xuân năm nay, những tiếng than khóc liên tục vang lên khiến con người ta không thể chịu đựng nổi. Cũng thật may mắn thay, có một đội quân những chiến binh chăm sóc sức khoẻ đang ở ngoài đó. Như Amy O'Sullivan, một y tá ER (Emergency Nursing - Điều dưỡng khẩn cấp) kỳ cựu đã phục vụ suốt 18 năm trong bệnh viện Wyckoff ở Brooklyn. Cô đã chăm sóc bệnh nhân nhiễm Covid-19 đầu tiên tại bệnh viện, người sau đó trở thành người tử vong đầu tiên của thành phố vào đầu tháng 3, trước khi tầm quan trọng của PPE (Personal Protective Equipment - Trang thiết bị bảo hộ cá nhân) được nhận thức đúng đắn. Amy cũng bắt đầu xuất hiện nhiều triệu chứng vài ngày sau đó. Sau khi được đặt ống thở và phải thở máy trong vòng 4 ngày, cô về nhà nghỉ ngơi trong chưa đầy 2 tuần trước khi quay trở lại bệnh viện.
 
 Amy chỉ là một trong hàng triệu nhân viên y tế trên toàn cầu đang phải đặt cược tính mạng để chăm sóc người khác. Nhiều người đã chuyển vào ở trong các khách sạn, phòng ngủ dự phòng, thậm chí là ở gara xe trong thời đỉnh điểm của đại dịch để bảo vệ gia đình họ. Từ các bác sỹ đến những nhân viên vệ sinh, toàn bộ đã vào cuộc để giữ cho bệnh viện trở thành một phòng tuyến vững chắc, nơi những ánh mắt mệt mỏi của họ truyền đi niềm tin về khả năng chữa trị và lòng thương người. Chỉ có hai từ đơn giản để nói về hành động của họ: Cảm ơn.
@@ -34,9 +34,6 @@ Amy chỉ là một trong hàng triệu nhân viên y tế trên toàn cầu đa
 _Couric là phóng viên chiến thắng giải Emmy và sáng lập công ty truyền thông Katie Couric Media._
 
 #### Arussi Unda
-
-![Arussi Unda](https://api.time.com/wp-content/uploads/2020/09/time-100-Arussi-Unda.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Arussi Unda - Ảnh bởi Victor Yanez, báo Reuters
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -52,6 +49,9 @@ _Couric là phóng viên chiến thắng giải Emmy và sáng lập công ty tr
 
 Lời bình: Lydia Cacho
 
+![Arussi Unda](https://api.time.com/wp-content/uploads/2020/09/time-100-Arussi-Unda.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Arussi Unda - Ảnh bởi Victor Yanez, báo Reuters
+
 Nếu chúng ta ngừng lại, cả thế giới cũng dừng lại. Đó là những lời mà Arussi Unda, một nhà hoạt động nữ quyền đến từ Veracruz, Mexico, đã dùng để kêu gọi trong một cuộc đình công của phụ nữ trên toàn quốc vào ngày 9 tháng 3, năm 2020. Đáp lại lời kêu gọi ấy, hàng triệu phụ nữ Mexico đã nghỉ làm ở nhà, từ chối chăm sóc người khác, để nhắc nhở cho cả thế giới về vai trò quan trọng của phụ nữ ở mọi lứa tuổi, chủng tộc và địa vị kinh tế trong việc thực thi nền dân chủ.
 
 Arussi khẳng định phụ nữ là người gác cổng cho một đất nước đang vỡ vụn, khi chúng ta đang bị bọn buôn người ám sát, hãm hiếp, biến mất, bị đem ra trao đổi, mua bán. Chúng ta chăm sóc cho trẻ em, người bệnh, người già nhưng chính phủ chúng ta thì lại từ chối một cách có hệ thống quyền vùng lên của phụ nữ chống lại một xã hội bất công. Chúng ta sẽ chấm dứt tất cả những hành động tàn bạo này lên tất cả chúng ta.
@@ -61,9 +61,6 @@ Sự lãnh đạo của Arussi với tư cách người phát ngôn của tổ c
 _Cacho là một tác giả và phóng viên điều tra ở Mexico_
 
 #### Billy Porter
-
-![Billy Porter](https://api.time.com/wp-content/uploads/2020/09/time-100-Billy-Porter.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Billy Porter - Ảnh bởi Paola Kudacki, TIME
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -79,6 +76,9 @@ _Cacho là một tác giả và phóng viên điều tra ở Mexico_
 
 Lời bình: Cyndi Lauper
 
+![Billy Porter](https://api.time.com/wp-content/uploads/2020/09/time-100-Billy-Porter.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Billy Porter - Ảnh bởi Paola Kudacki, TIME
+
 Khi lớn lên, tôi đã là kẻ bị ruồng bỏ. Tôi không phù hợp với bất cứ cái gì. Tôi đơn độc. Nhưng những gì tôi có là trí tưởng tượng và óc sáng tạo. Khi Billy Porter và tôi gặp nhau, tâm hồn hai chúng tôi đã trở nên đồng điệu ngay lập tức. Cả hai chúng tôi đã từng di chuyển trên khắp thế giới như những người không hoà hợp, và chúng tôi đã sử dụng những gì làm chúng tôi khác biệt như một tài sản. Khi bạn có thể nắm lấy những thứ mà bạn không phù hợp, đó là lúc điều kỳ diệu xảy ra.
 
 Khi tôi viết những bài hát cho Lola của Kindy Boots và sau đó gặp Billy, tôi biết anh ấy là Lola. Anh ấy mang đến sự sống của cô ấy. Vai diễn của anh ấy là một trong những lý do quan trọng nhất cho sự thành công của vở diễn. Billy có thể hát cứ thứ gì. Anh truyền năng lượng vào trong căn phòng. Khi bạn xem anh ấy thông qua Pose, bạn cũng sẽ cảm nhận thấy điều kỳ diệu tương tự. 
@@ -88,9 +88,6 @@ Nhìn vào anh chàng này. Nếu bạn muốn thấy bằng chứng sống củ
 _Lauper là một ca-nhạc sỹ chiến thắng giải Emmy, Grammy và Tony_
 
 #### Sister Norma Pimentel
-
-![Sister Norma Pimentel](https://api.time.com/wp-content/uploads/2020/09/time-100-Sister-Norma-Pimentel.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Sister Norma Pimentel - Ảnh bởi Valerie Chiang
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -107,6 +104,9 @@ _Lauper là một ca-nhạc sỹ chiến thắng giải Emmy, Grammy và Tony_
 
 Lời bình: Julián Castro
 
+![Sister Norma Pimentel](https://api.time.com/wp-content/uploads/2020/09/time-100-Sister-Norma-Pimentel.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Sister Norma Pimentel - Ảnh bởi Valerie Chiang
+
 "Khi tôi đói và bạn cho tôi thức ăn, khi tôi khát và bạn cho tôi uống, tôi là người lạ và bạn chào đón tôi". Những lời này từ sách Matthew đã hình thành nên nền tảng của đức tin Công giáo thông qua công việc và sứ mạng cuộc đời của sơ Norma Pimentel.
 
 Sơ Pimentel đã ở luôn ở đầu trong trận tuyến của lòng thương xót trong vòng 3 thập kỷ, để hỗ trợ những người nhập cư tìm kiếm nơi ẩn náu ở vùng biên giới Texas với Mexico. Với vai trò là giám đốc điều hành của tổ chức từ thiện Công giáo ở thung lũng Rio Grande, cô đã trực tiếp chỉ đạo các hoạt động cung cấp nơi ở, thực phẩm, nơi cầu nguyện và những tiện ích cho những người mà không được đối xử như con người. Tổ chức của cô đã nuôi dưỡng và giúp đỡ cho hơn 100,000 người dọc theo vùng biên giới.
@@ -118,9 +118,6 @@ Niềm hy vọng vô bờ và lòng thương xót không có sự sợ hãi đã
 _Castro là cựu bộ trưởng phát triển nhà và đô thị Hoa Kỳ_
 
 #### Alicia Garza, Patrisse Cullors và Opal Tometi
-
-![Alicia Garza, Patrisse Cullors and Opal Tometi](https://api.time.com/wp-content/uploads/2020/09/time-100-BLM-Alicia-Garza-Opal-Tometi-Patrisse-Cullors.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Alicia Garza, Patrisse Cullors và Opal Tometi - Ảnh bởi Kayla Reefer, TIME
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -139,6 +136,9 @@ _Castro là cựu bộ trưởng phát triển nhà và đô thị Hoa Kỳ_
 
 Lời bình: Sybrina Fulton
 
+![Alicia Garza, Patrisse Cullors and Opal Tometi](https://api.time.com/wp-content/uploads/2020/09/time-100-BLM-Alicia-Garza-Opal-Tometi-Patrisse-Cullors.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Alicia Garza, Patrisse Cullors và Opal Tometi - Ảnh bởi Kayla Reefer, TIME
+
 Vào năm con trai tôi Trayvon bị giết, cũng là lần đầu tiên tôi nghe đến phong trào Black Lives Matter. Nó chưa phải là tổ chức ở cấp độ quốc gia. Nó chỉ là một phong trào mà người ta nói về nói trong vòng tròn của những mối quan hệ khép kín của họ. Khi biết rằng Patrisse Cullors và Alicia Garza và Opal Tometi đã đứng ra tổ chức phong trào này, tôi cảm thấy được hỗ trợ và được khuyến khích.
 
 Chỉ là 3 người trong số họ, nhưng họ ở khắp mọi nơi. Họ khiến mọi người suy nghĩ: Điều gì sẽ xảy ra nếu bạn có đứa con 17 tuổi mặc đồ hoodie, không vũ khí, chỉ ăn kẹo và đồ uống, nằm chết dưới mặt đất? Điều gì sẽ xảy ra nếu đứa con gái của bạn đang nằm ngủ trên chiếc giường của nó bị cảnh sát gõ cửa và giết chết? Bạn sẽ cảm thấy như thế nào? Đó là những gì mà phong trào "Black Lives Matter" đang hỏi chúng ta.
@@ -155,9 +155,6 @@ _Fulton là sáng lập của quỹ Trayvon Martin_
 
 #### Nury Turkel
 
-![Nury Turkel](https://api.time.com/wp-content/uploads/2020/09/time-100-Nury-Turkel-1.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Nury Turkel - Ảnh bởi Courtesy Nury Turkel
-
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>VOICE OF A PEOPLE</p>
@@ -171,6 +168,9 @@ _Fulton là sáng lập của quỹ Trayvon Martin_
 
 Lời bình: Dolkun Isa
 
+![Nury Turkel](https://api.time.com/wp-content/uploads/2020/09/time-100-Nury-Turkel-1.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Nury Turkel - Ảnh bởi Courtesy Nury Turkel
+
 Nury Turkel và tôi là người Ngô Duy Nhĩ, một dân tộc gồm phần lớn những người Hồi giáo vốn đang phải đối mặt với những điều mà những tổ chức nhân quyền gọi đó một cuộc diệt chủng toàn diện dưới bàn tay của lãnh đạo cộng sản Trung Quốc. Với hàng triệu người bị dồn vào các trại tập trung, nơi những người phụ nữ bị triệt sản hay hãm hiếp, hoặc những người khác bị tra tấn hoặc bị thử nghiệm, hoặc phải làm nô lệ công nghiệp trong các nhà máy của Trung Quốc, chúng tôi mất tất cả những gì thân thuộc với chúng tôi.
 
 Là một luật sự được đào tạo tại Mỹ, Nury đã làm việc không biết mệt mỏi để xây dựng nên phong trào đòi lại nhân quyền cho người Ngô Duy Nhĩ, anh đại diện cho 150 người tị nạn chính trị Ngô Duy Nhĩ xin tị nạn ở Hoa Kỳ và đưa hoàn cảnh của chúng tôi thu hút sự chú ý của toàn thế giới. Anh ấy là người Mỹ gốc Ngô Duy Nhĩ đầu tiên làm việc trong uỷ ban tự do tôn giáo quốc gia của Hoa Kỳ, do bà Nancy Pelosi bổ nhiệm vào tháng 5, giúp định hình các chính sách của Mỹ và toàn cầu nhằm chống lại thảm hoạ diệt chủng này. Nury là lãnh đạo toàn cầu, người đấu tranh cho phẩm giá và giúp cho người Ngô Duy Nhĩ nuôi hy vọng được sống tiếp.
@@ -178,9 +178,6 @@ Là một luật sự được đào tạo tại Mỹ, Nury đã làm việc kh�
 _Isa là chủ tịch của đại hội người Ngô Duy Nhĩ toàn cầu_
 
 #### Allyson Felix
-
-![Allyson Felix](https://api.time.com/wp-content/uploads/2020/09/time-100-Allyson-Felix.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Allyson Felix - Ảnh bởi Patrick Smith, Getty Images
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -196,6 +193,9 @@ _Isa là chủ tịch của đại hội người Ngô Duy Nhĩ toàn cầu_
 
 Lời bình: Christy Turlington Burns
 
+![Allyson Felix](https://api.time.com/wp-content/uploads/2020/09/time-100-Allyson-Felix.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Allyson Felix - Ảnh bởi Patrick Smith, Getty Images
+
 Allyson Felix là một trong những vận động viên điền kinh đạt được nhiều huy chương nhất. Khi những vận động viên như cô ấy lên tiếng về những bất công mà họ phải đối mặt, họ đang đại diện cho tất cả chúng ta. Sau khi Allyson công khai việc nhà tài trợ cho cô ấy vào thời điểm đó, Nike, đe doạ sẽ trả ít hơn cho cô ấy khi sinh con gái vào năm 2018, cô đã nhận được sự chú ý và ủng hộ của tôi.
 
 Sự phân biệt đối xử với phụ nữ có thai đặt họ và gia đình vào trong những rủi ro. Bất kỳ thương hiệu nào thu lợi từ những thành tích của phụ nữ nên tăng cường sự hỗ trợ cho họ trong suốt thời kỳ, chứ không phải là cắt giảm đi. Cắt giảm đi là không công bằng. Phụ nữ đã hết lần này đến lần khác chứng minh rằng họ có thể trở nên kiên cường hơn sau khi sinh, và các nữ vận động viên cũng không phải ngoại lệ. Họ quay trở lại, nhanh hơn và mạnh hơn, Allyson đã mang về huy chương vàng thế giới thứ 13 của cô ấy vào mùa thu 2019 và đang tập luyện để thi đấu tại thế vận hội mùa hè Tokyo.
@@ -205,9 +205,6 @@ Sau khi cô ấy tiếp tục tiến bước, Nike đã cập nhật các chính
 _Turlington Burns là sáng lập của Every Mother Counts_
 
 #### Naomi Osaka
-
-![Naomi Osaka](https://api.time.com/wp-content/uploads/2020/09/time-100-Naomi-Osaka.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Naomi Osaka - Ảnh bởi Danielle Parhizkaran, Reuters
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -227,6 +224,9 @@ _Turlington Burns là sáng lập của Every Mother Counts_
 **HÌNH MẪU**
 
 Lời bình: Maya Moore
+
+![Naomi Osaka](https://api.time.com/wp-content/uploads/2020/09/time-100-Naomi-Osaka.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Naomi Osaka - Ảnh bởi Danielle Parhizkaran, Reuters
 
 Bảy trận đấu. Bảy khẩu trang. Bảy cái tên.
 
@@ -248,9 +248,6 @@ _Moore là một nhà hoạt động và nhà vô địch WNBA và Olympic_
 
 #### Angela Davis
 
-![Angela Davis](https://api.time.com/wp-content/uploads/2020/09/time-100-Angela-Davis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Angela Davis - Ảnh bởi Djeneba Aduayom, TIME
-
 <details>
   <summary>Đoạn văn gốc</summary>
   <p>REVOLUTIONARY CRUSADER</p>
@@ -267,6 +264,9 @@ _Moore là một nhà hoạt động và nhà vô địch WNBA và Olympic_
 
 Lời bình: Common
 
+![Angela Davis](https://api.time.com/wp-content/uploads/2020/09/time-100-Angela-Davis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Angela Davis - Ảnh bởi Djeneba Aduayom, TIME
+
 Cách mạng là tình yêu.
 
 Angela Davis đã nói ở phiên họp hội đồng UCLA, nơi mà chúng tôi đã cùng nhau tham dự, và lời của cô ấy in đậm trong tôi. Tình yêu của cô ấy dành cho những người da đen và cho nhân loại là động lực lớn nhất của cô; bạn có thể nhìn thấy những ảnh hưởng của cô ấy lên thế giới của chúng ta.
@@ -280,9 +280,6 @@ Cách mạng là tình yêu.
 _Common là nhạc sỹ và nghệ sỹ thu âm đạt giải thưởng Emmy, Grammy và giải thưởng của viện Hàn lâm_
 
 #### Lina Attalah
-
-![Lina Attalah](https://api.time.com/wp-content/uploads/2020/09/time-100-Lina-Attalah.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Lina Attalah - Ảnh bởi David Degner, TIME
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -300,6 +297,9 @@ _Common là nhạc sỹ và nghệ sỹ thu âm đạt giải thưởng Emmy, Gr
 
 Lời bình: Maria Ressa
 
+![Lina Attalah](https://api.time.com/wp-content/uploads/2020/09/time-100-Lina-Attalah.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Lina Attalah - Ảnh bởi David Degner, TIME
+
 Soi rọi ánh sáng.
 
 Đó là sự mệnh của báo chí, nhưng nó cũng có những cái giá phải trả khi nhiều quốc gia trên thế giới muốn giữ lại bóng tối, giữ lại sự hoang mang, sợ hãi để có thể củng cố quyền lực.
@@ -313,9 +313,6 @@ Bạn sẽ không thể biết đã đi quá xa cho đến khi bạn thực hi�
 _Ressa là một phóng viên điều tra và đồng sáng lập của Rappler_
 
 #### David Hill
-
-![David Hill](https://api.time.com/wp-content/uploads/2020/09/time-100-David-Hill.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> David Hill - Ảnh bởi Tulsa World
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -331,6 +328,9 @@ _Ressa là một phóng viên điều tra và đồng sáng lập của Rappler_
 
 Lời bình: Sharice Davids
 
+![David Hill](https://api.time.com/wp-content/uploads/2020/09/time-100-David-Hill.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> David Hill - Ảnh bởi Tulsa World
+
 Chính quyền liên bang Hoa Kỳ từ lâu đã bỏ qua và tìm cách làm suy yếu hiệp ước của họ với 574 bộ lạc bản xứ. Người bản xứ đã tiếp tục cuộc chiến mà tổ tiên của chúng ta đã bắt đầu để duy trì chủ quyền của chúng ta dưới tư cách là các dân tộc bộ lạc theo nhiều cách, và vào năm 2019, thủ lĩnh David Hill và dân tộc Muscogee (Creek) đã đưa cuộc chiến lên toà án tối cao và dành chiến thắng.
 
 Quyết định của McGirt v. Oklahoma vào mùa hè năm nay là một chiến thắng đột phá cho toàn bộ tộc người Indian (thành viên của bất kỳ dân tộc bản địa nào ở Bắc, Trung, Nam Mỹ, đặc biệt là ở bắc Mỹ). Toà án cho rằng vùng đất mà bộ tộc Muscogee (Creek) được đảm bảo để đổi lấy việc họ phải rời bỏ mảnh đất tổ tiên của mình để lại vẫn được lưu giữ đến tận hôm nay, bất chấp những nỗ lực hơn một thế kỷ qua nhằm dung hợp và hoà tan nó ra. Nói ngắn gọn: chính quyền liên bang phải tuân giữ những lời hứa của mình đối với các tộc người bản xứ.
@@ -340,9 +340,6 @@ Chính phủ liên bang đã chấp nhận đối xử với một bộ tộc th
 _Davids là một nữ dân biểu đảng Dân Chủ đến từ Kansas và là thành viên của bộ tộc Ho-Chunk_
 
 #### Ady Barkan
-
-![Ady Barkan](https://api.time.com/wp-content/uploads/2020/09/time-100-Ady-Barkan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Ady Barkan - Ảnh bởi Paola Kudacki, TIME
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -360,6 +357,9 @@ _Davids là một nữ dân biểu đảng Dân Chủ đến từ Kansas và là
 
 Lời bình: Elizabeth Warren
 
+![Ady Barkan](https://api.time.com/wp-content/uploads/2020/09/time-100-Ady-Barkan.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Ady Barkan - Ảnh bởi Paola Kudacki, TIME
+
 Vào năm 2018, một hộ gia đình điển hình ở Mỹ với bảo hiểm sức khoẻ đã phải chi ra hơn 12,000 đô la cho chi phí bảo hiểm, đồng thanh toán, cho những chi phí không được bảo hiểm và những khoản khấu hao. Đã có nhiều sự thắt lưng buộc bụng: khi theo ước tính có 40 triệu người không tới gặp bác sỹ bởi vì chi phí chữa bệnh trong năm 2018, và ngay cả trong số những người đã đi khám, 37 triệu người không thể chi trả để mua đủ đơn thuốc của mình. Với những người có vấn đề sức khoẻ nghiêm trọng, những khoản qây quỹ trực tuyến và phá sản luôn luôn rình rập. Ở một đất nước giàu nhất trong lịch sử thế giới, điều này thực sự quá sai. Ady Barkan biết điều đó, và anh ấy dùng mọi ngày sau khi thức dậy để dẫn đầu trong cuộc chiến Chăm sóc y tế cho tất cả mọi người.
 
 Với Ady, việc thức dậy đã trở thành một việc khó khăn hơn hầu hết chúng ta có thể tưởng tượng. Năm 2016, Ady được chuẩn đoán bị mắc chứng ALS (Amyotrophic lateral sclerosis - Xơ cứng teo cơ một bên, bệnh nơ-ron vận động, bệnh Lou Gehrig). Ngay cả khi căn bệnh này đã cướp đi khả năng vận động và cả khả năng nói chuyện của anh, Ady đã dùng tất cả hơi thở cuối cùng để ngăn việc các công ty thuốc và bảo hiểm nhảy ra đứng giữa điều phối việc người Mỹ tiếp cận với các dịch vụ chăm sóc y tế cơ bản cần thiết. Anh ấy chiến đấu từ trái tim, cho gia đình nhỏ của anh-người vợ Rachael và 2 đứa con Carl, Willow-và cho hàng triệu gia đình khác ở trong nước Mỹ.
@@ -373,9 +373,6 @@ Trong cuộc chiến vì công bằng xã hội, không dễ để có sự thay
 _Warren là một thượng nghị sỹ của đảng Dân chủ ở Massachusetts_
 
 #### Bilkis
-
-![Bilkis](https://api.time.com/wp-content/uploads/2020/09/time-100-Bilkis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Bilkis - Ảnh bởi Anil Sharma, Alamy
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -391,6 +388,9 @@ _Warren là một thượng nghị sỹ của đảng Dân chủ ở Massachuset
 
 Lời bình: Rana Ayyub
 
+![Bilkis](https://api.time.com/wp-content/uploads/2020/09/time-100-Bilkis.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Bilkis - Ảnh bởi Anil Sharma, Alamy
+
 Lần đầu tiên tôi gặp Bilkis, bà đang ngồi giữa đám đông, bao quanh bởi những người phụ nữ trẻ, những người đang biểu tình với những biểu ngữ thể hiện những câu nói phản kháng. Với chuỗi hạt cầu nguyện trên một tay và lá cờ tổ quốc trên tay khác, Bilkis trở thành tiếng nói của những người thấp bé ở Ấn Độ, một cụ bà 82 tuổi ngồi ở địa điểm biểu tình từ 8 giờ sáng cho đến nửa đêm.
 
 Bà đã ngồi ở đó từ khi chính quyền của thủ tướng chính phủ Ấn Độ Narendra Modi thông qua đạo luật sửa đổi quyền công dân, trong đó có thể cấm người Hồi giáo nhập tịch vào tháng 12, và bà tiếp tục ngồi đó trong suốt mùa đông lạnh giá. Bilkis, cùng với hàng ngàn phụ nữ tham gia cùng bà ở Shaheen Bagh, một thành phố lân cận với New Delhi, trở thành biểu tượng của sự phản kháng trên toàn quốc khi tiếng nói của phụ nữ và những người thiểu số đang bị số đông chính trị gia của tầng lớp chiếm đa số trong chính quyền Modi át đi một cách có hệ thống. Bilkis đã gieo hy vọng và sức mạnh đến những nhà hoạt động và những thủ lĩnh sinh viên, những người đang bị ném vào phiá sau song sắt để bảo vệ sự thật trong một nền dân chủ đang trượt dài từng bước để trở thành một nền độc tài, và truyền cảm hứng cho các cuộc biểu tình ôn hoà trên khắp đất nước.
@@ -400,9 +400,6 @@ Bà nói với tôi như một lời chia tay: "Tôi vẫn sẽ ngồi ở đây
 _Ayyub là một phóng viên người Ấn Độ và là tác giả của hồ sơ Gujara: Anatomy of a Cover Up_
 
 #### Felipe Neto
-
-![Felipe Neto](https://api.time.com/wp-content/uploads/2020/09/time-100-Felipe-Neto.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Felipe Neto - Ảnh bởi AFP/Getty Images
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -420,6 +417,9 @@ _Ayyub là một phóng viên người Ấn Độ và là tác giả của hồ 
 
 Lời bình: David Miranda
 
+![Felipe Neto](https://api.time.com/wp-content/uploads/2020/09/time-100-Felipe-Neto.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Felipe Neto - Ảnh bởi AFP/Getty Images
+
 Với 39 triệu người đăng ký trên Youtube và 12 triệu người theo dõi trên Twitter, Felipe Neto, 32 tuổi, là nhân vật có sức ảnh hưởng trên nền tảng trực tuyến hiệu quả nhất Brazil, có thể là cả thế giới.
 
 Sự thống trị trên nền tảng trực tuyến của Neto không phải là điều gì mới. Một thập kỷ trước, từ ngôi nhà nhỏ khiêm tốn của gia đình ở Rio de Janeiro, anh đã bắt đầu tạo ra những nội dung trên Youtube, và sau đó đã nhanh chóng nổi tiếng, có lượng khổng lồ khán giả trẻ và trung thành, cũng như những khoản lợi nhuận phát sinh. Điều đã thay đổi hoàn toàn là cách Neto sử dụng nền tảng của mình. Danh tiếng ban đầu của anh là tạo ra những nội dung tiêu chuẩn cho các thanh thiếu niên trên mạng: trò chơi trực tuyến, người nổi tiếng và các cô gái. Nhưng với cuộc bầu cử năm 2018 của tổng thống cực hữu Jair Bolsonaro và sự lên ngôi của phong trào ủng hộ chủ nghĩa phát xít của ông, Neto, đã đánh cược thương hiệu của anh và sự an toàn, dùng sự nổi tiếng của mình để trở thành một trong những đối thủ nặng ký nhất của Bolsonaro.
@@ -433,9 +433,6 @@ Khi Felipe Neto nói, hàng triệu người lắng nghe. Và tiếng nói chín
 _Miranda là một nghị sỹ người Brazil đại diện cho Rio de Janeiro_
 
 #### Chi Chia-Wei
-
-![Chi Chia-Wei](https://api.time.com/wp-content/uploads/2020/09/time-100-Chi-Chia-wei.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Chi Chia-Wei - Ảnh bởi Chris Stowers, Panos Pictures
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -451,6 +448,9 @@ _Miranda là một nghị sỹ người Brazil đại diện cho Rio de Janeiro_
 
 Lời bình: Tsai Ing-Wen (Thái Anh Văn)
 
+![Chi Chia-Wei](https://api.time.com/wp-content/uploads/2020/09/time-100-Chi-Chia-wei.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Chi Chia-Wei - Ảnh bởi Chris Stowers, Panos Pictures
+
 Nếu hỏi bất cứ người nào đã tham dự "Niềm kiêu hãnh Đài Loan", họ có thể nói rõ cho bạn biết lần đầu tiên họ nhìn thấy Chi Chia-Wei, đứng phía trên cao đám đông và vẫy lá cờ cầu vồng. Hình ảnh ấy thể hiện cho những gì ông ấy mong muốn ở cộng đồng LGBTQ+ của Đài Loan: một biểu tượng hy vọng cho thế hệ tiếp theo, một sự hiện thân sống động cho ý tưởng rằng điều đó đang thật sự tốt đẹp hơn.
 
 Ông bắt đầu vận động cho sự bình đẳng trong hôn nhân hàng thập kỷ qua, ở thời điểm mà việc vận động, tuyên truyền có thể bị đem đi bỏ tù ở Đài Loan. Bất chấp nguy hiểm, ông liên tục đưa việc đòi quyền bình đẳng lên toà án, và sự kiên trì của ông đã dẫn đến một phán quyết của Đại thẩm phán yêu cầu chính phủ hợp pháp hoá hôn nhân đồng giới, vốn có hiệu lực từ năm 2019.
@@ -461,9 +461,6 @@ _Tsai là tổng thống Đài Loan_
 
 
 #### Megan Rapinoe
-
-![Megan Rapinoe](https://api.time.com/wp-content/uploads/2020/09/time-100-Megan-Rapinoe.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
-> Megan Rapinoe - Ảnh bởi Cait Oppermann, TIME
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -478,6 +475,9 @@ _Tsai là tổng thống Đài Loan_
 **TINH THẦN KHÔNG THỂ BỊ BẺ GÃY**
 
 Lời bình: Kirsten Gillibrand
+
+![Megan Rapinoe](https://api.time.com/wp-content/uploads/2020/09/time-100-Megan-Rapinoe.jpg?w=800&quality=85){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
+> Megan Rapinoe - Ảnh bởi Cait Oppermann, TIME
 
 Vòng tay dang rộng, sự tự tin rạng ngời trên khuôn mặt, Megan Rapinoe ăn mừng tại World Cup là một trong những hình ảnh biểu tượng của năm 2019. Rapinoe và đồng đội đã thống trị World Cup bằng chức vô địch kỷ lục thứ 4 của họ, chỉ ra cho thế giới thấy được những gì tốt đẹp nhất của đức tính Mỹ: làm việc chăm chỉ, mạnh mẽ và tận tâm.
 
