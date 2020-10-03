@@ -5,7 +5,7 @@ categories: [ Bài dịch, Tiếng Anh ]
 image: https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/time-100-2020-1.png
 tags: [bài dịch, tiếng Anh, time 100, 2020, nhân vật, ảnh hưởng, toàn cầu]
 ---
-**Ngày 23/9, tạp chí Time của Mỹ đã công bố danh sách 100 nhân vật có sức ảnh hưởng nhất trên thế giới năm 2020. Năm nay Time chia ra thành sáu hạng mục: Biểu tượng (Icons), Nghệ sĩ (Artists), Nhà lãnh đạo (Leaders), Người khổng lồ (Titans), Người tiên phong (Pioneers), Tưởng nhớ (Remebrance). Bài dưới đây liệt kê những nhân vật trong hạng mục Biểu tượng.**
+**Ngày 23/9, tạp chí Time của Mỹ đã công bố danh sách 100 nhân vật có sức ảnh hưởng nhất trên thế giới năm 2020. Năm nay Time chia ra thành sáu hạng mục: Biểu tượng (Icons), Nghệ sỹ (Artists), Nhà lãnh đạo (Leaders), Người khổng lồ (Titans), Người tiên phong (Pioneers), Tưởng nhớ (Remebrance). Bài dưới đây liệt kê những nhân vật trong hạng mục Biểu tượng.**
 
 > Bài gốc: [TIME 100 - The 100 Most Infuential People of 2020](https://time.com/collection/100-most-influential-people-2020/)
 
@@ -273,7 +273,7 @@ Angela Davis đã nói ở phiên họp hội đồng UCLA, nơi mà chúng tôi
 
 Di sản của cô ấy là vượt thời gian; bắt nguồn từ chân lý của cô ấy, nó khuyến khích thế hệ tương lai trở nên can đảm hơn. Khi còn là một đứa trẻ, những người bạn của gia đình cô ấy nằm trong số những cô gái trẻ bị giết chết trong vụ đánh bom năm 1963 tại nhà thờ Baptist đường số 16. Là một nhà lãnh đạo chính trị, cô ấy đã bị tấn công, bị truy lùng và bị bỏ tù; cô ấy đám đứng lên để chống lại một hệ thống phân biệt chủng tộc. Cô ấy đã thấy và chứng kiến tất cả, và cô ấy tiếp tục truyền cảm hứng, giáo dục và chống lại sự áp bức.
 
-Có nhiều người mà bạn có thể nghe tên rất nhiều trong các bài hát hip-hop và rap. Angela Davis là một trong số đó. Những nghệ sĩ hip-hop là những người lãnh đạo văn hoá, cất tiếng nói với và cho những trẻ em da đen trên khắp thế giới. Người mà được xem như là huyền thoại và tôn vinh đem đến rất nhiều tiếng nói có trọng lượng. Angela Davis luôn nắm bắt được những nhịp đập quan trọng. Năm ngoái, tôi và cô ấy đã chơi freestyle (một hình thức của hip-hop, rap) trong suốt bữa tiệc sinh nhật tại nhà cô ấy. Cô ấy dùng nguyên đêm để tận hưởng nhạc jazz trên ban công, trong một chiếc áo sơ mi của Colin Kaepernick.
+Có nhiều người mà bạn có thể nghe tên rất nhiều trong các bài hát hip-hop và rap. Angela Davis là một trong số đó. Những nghệ sỹ hip-hop là những người lãnh đạo văn hoá, cất tiếng nói với và cho những trẻ em da đen trên khắp thế giới. Người mà được xem như là huyền thoại và tôn vinh đem đến rất nhiều tiếng nói có trọng lượng. Angela Davis luôn nắm bắt được những nhịp đập quan trọng. Năm ngoái, tôi và cô ấy đã chơi freestyle (một hình thức của hip-hop, rap) trong suốt bữa tiệc sinh nhật tại nhà cô ấy. Cô ấy dùng nguyên đêm để tận hưởng nhạc jazz trên ban công, trong một chiếc áo sơ mi của Colin Kaepernick.
 
 Cách mạng là tình yêu.
 

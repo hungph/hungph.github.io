@@ -19,7 +19,7 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Theo dõi</a></span>
+						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.facebook }}" class="btn btn-outline-success btn-sm btn-round ml-1">Theo dõi</a></span>
                             <span class="text-muted d-block mt-1">
 								<time datetime="{{ page.date | date: "%d-%m-%Y" }}">
 									{{ page.date | date: "%d" }}
@@ -129,7 +129,7 @@ layout: default
 							{% endif %} 
 						</div>
 						<div class="col-md-11">		
-							<h5 class="font-weight-bold">Viết bởi {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Theo dõi</a></span>{% endif %}</h5>
+							<h5 class="font-weight-bold">Dịch bởi {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.facebook }}" class="btn btn-outline-success btn-sm btn-round ml-2">Theo dõi</a></span>{% endif %}</h5>
 							{{ author.bio }}					
 						</div>
 					</div>				
