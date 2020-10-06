@@ -11,6 +11,7 @@ layout: default
                         <span class="catlist">
 						{% for category in page.categories %}
 						  {% assign convert_cat = "'" | append: category | append: "'" %}
+						  {{convert_cat}}
                           <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{% if site.data.tags[convert_cat] %}{{ site.data.tags[convert_cat] }}{% else %}{{ category | downcase }}{% endif %}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
