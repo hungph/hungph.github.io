@@ -10,7 +10,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
-						  {% assign convert_cat = "'" | append: category | append: "'" | downcase %}
+						  {% assign convert_cat = "'" | append: category | downcase | append: "'" %}
 						  {{convert_cat}}
                           <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{% if site.data.tags[convert_cat] %}{{ site.data.tags[convert_cat] }}{% else %}{{ category | downcase }}{% endif %}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
