@@ -11,8 +11,11 @@ layout: default
                         <span class="catlist">
 						{% for category in page.categories %}
 						  {% assign convert_cat = "'" | append: category | downcase | append: "'" %}
-						  {{convert_cat}}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{% if site.data.tags[convert_cat] %}{{ site.data.tags[convert_cat] }}{% else %}{{ category | downcase }}{% endif %}">{{ category | downcase }}</a><span class="sep">, </span>
+						  {% assign plug_cat = category %}
+						  {% if site.data.tags[convert_cat] %}
+							{% assign plug_cat = site.data.tags[convert_cat] %}
+						  {% endif %}
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ plug_cat }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
