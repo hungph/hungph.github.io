@@ -1,5 +1,5 @@
-<!-- ---
-title: "Categories"
+---
+title: "Chuyên mục: Tiếng Anh"
 layout: default
 pagination:
     enabled: true
@@ -9,31 +9,30 @@ permalink: "/tieng-anh.html"
 <div class="container" style="padding-top: 15px;">
     <div class="row justify-content-center">
         <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Chuyên mục</h1>
+          <h1 class="font-weight-bold title h6 text-uppercase mb-4">Chuyên mục: Tiếng Anh</h1>
             
-        {% for category in site.categories %} 
-          {% if category[0] == %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
-            
-        {% assign pages_list = category[1] %}
-        {% for post in pages_list %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
-         
-            {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-
-        {% endfor %}
+          {% for category in site.categories %}
+            {% assign cat_name = category[0] | downcase %}
+            {% if category[0] == "tiếng anh" %}
+              {% assign pages_list = category[1] %}
+              {% for post in pages_list %}
+              {% if post.title != null %}
+                {% if group == null or group == post.group %}
+                  {% include main-loop-card.html %}
+                {% endif %}
+              {% endif %}
+              {% endfor %}
+              {% assign pages_list = nil %}
+              {% assign group = nil %}
+            {% endif %}
+          <!-- <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4> -->
+          {% endfor %}
 
         </div>
-        
-            <div class="col-md-4">
+
+      <div class="col-md-4">
         {% include sidebar-featured.html %}    
-    </div>
+      </div>
         
     </div>
-</div> -->
+</div>
