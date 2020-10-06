@@ -1,6 +1,6 @@
 # Site
 name: 'Tin10'
-description: 'Tin 10 is a blog that will be contained all translated Vietnamese version of my English/Korean favorite news/articles'
+description: 'Tin 10 is a blog that will list the translated Vietnamese version of my English/Korean favorite news/articles.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -19,10 +19,10 @@ plugins:
   
 authors:
     hungphan88:
-      name:           Hung Phan
+      name:           Hưng Phan
       site:           https://hungph.github.io
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Hung!"
+      bio:            "Xin chào, mình là Hưng, một lập trình viên, thích dịch báo (hungphan88@gmail.com)!"
       email:          hungphan88@gmail.com
       twitter:        https://twitter.com/hungphan88
       facebook:       https://www.facebook.com/hungphan88
