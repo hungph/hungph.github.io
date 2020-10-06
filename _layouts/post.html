@@ -11,12 +11,13 @@ layout: default
                         <span class="catlist">
 						{% for category in page.categories %}
 						  {% assign convert_cat = "'" | append: category | append: "'" %}
-						  {% assign convert_cat = convert_cat | downcase | replace: " ", "-" %}
+						  {% assign convert_cat = category | downcase | replace: " ", "-" %}
 						  {% assign plug_cat = category | downcase %}
 						  convert_cat: {{convert_cat}}
 						  <br />
 						  site_cat: {{site.data.tags[convert_cat]}} 
 						  <br />
+						  tag: {{site.data.tags['bài-dịch']}}
 						  {% if site.data.tags[convert_cat] %}
 							{% assign plug_cat = site.data.tags[convert_cat] %}
 						  {% endif %}
