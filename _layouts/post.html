@@ -11,7 +11,7 @@ layout: default
                         <span class="catlist">
 						{% for category in page.categories %}
 						  {% assign convert_cat = "'" | append: category | append: "'" %}
-						  {% assign convert_cat = convert_cat | downcase %}
+						  {% assign convert_cat = convert_cat | downcase | replace: " ", "-" %}
 						  {% assign plug_cat = category | downcase %}
 						  convert_cat: {{convert_cat}}
 						  <br />
