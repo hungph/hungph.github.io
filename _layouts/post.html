@@ -10,8 +10,13 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
-						  {% assign convert_cat = "'" | append: category | downcase | append: "'" %}
-						  {% assign plug_cat = category %}
+						  {% assign convert_cat = "'" | append: category | append: "'" %}
+						  {% assign convert_cat = convert_cat | downcase %}
+						  {% assign plug_cat = category | downcase %}
+						  convert_cat: {{convert_cat}}
+						  <br />
+						  site_cat: {{site.data.tags[convert_cat]}} 
+						  <br />
 						  {% if site.data.tags[convert_cat] %}
 							{% assign plug_cat = site.data.tags[convert_cat] %}
 						  {% endif %}
