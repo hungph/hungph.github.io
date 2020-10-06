@@ -13,7 +13,7 @@ permalink: "/tieng-anh.html"
             
           {% for category in site.categories %}
             {% assign cat_name = category[0] | downcase %}
-            {% if category[0] == "tiếng anh" %}
+            {% if cat_name == "tiếng anh" %}
               {% assign pages_list = category[1] %}
               {% for post in pages_list %}
               {% if post.title != null %}
@@ -25,7 +25,6 @@ permalink: "/tieng-anh.html"
               {% assign pages_list = nil %}
               {% assign group = nil %}
             {% endif %}
-          <!-- <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4> -->
           {% endfor %}
 
         </div>
