@@ -1,19 +1,19 @@
 ---
-title: "Chuyên mục: Tiếng Anh"
+title: "Chuyên mục: Hàn Quốc"
 layout: default
 pagination:
     enabled: true
-permalink: "/tieng-anh.html"
+permalink: "/han-quoc.html"
 ---
 
 <div class="container" style="padding-top: 15px;">
     <div class="row justify-content-center">
         <div class="col-md-8">
-          <h1 class="font-weight-bold title h6 text-uppercase mb-4">Chuyên mục: Tiếng Anh</h1>
+          <h1 class="font-weight-bold title h6 text-uppercase mb-4">Chuyên mục: Hàn Quốc</h1>
             
           {% for category in site.categories %}
             {% assign cat_name = category[0] | downcase %}
-            {% if cat_name == "tiếng anh" %}
+            {% if cat_name == "hàn quốc" %}
               {% assign pages_list = category[1] %}
               {% for post in pages_list %}
               {% if post.title != null %}

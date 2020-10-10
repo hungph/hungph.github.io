@@ -15,7 +15,7 @@ layout: default
 						  {% if site.data.tags[convert_cat] %}
 							{% assign plug_cat = site.data.tags[convert_cat] %}
 						  {% endif %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ plug_cat }}">{{ category | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/{{ plug_cat }}.html">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>

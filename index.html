@@ -34,7 +34,12 @@ description: "Blog for translated my favorite news/articles from English/Korean 
         <small class="d-block text-muted">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    {% assign convert_cat = category | downcase | replace: " ", "-" %}
+                    {% assign plug_cat = category | downcase %}
+                    {% if site.data.tags[convert_cat] %}
+                        {% assign plug_cat = site.data.tags[convert_cat] %}
+                    {% endif %}
+                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ plug_cat }}.html">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -83,7 +88,12 @@ description: "Blog for translated my favorite news/articles from English/Korean 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                            {% assign convert_cat = category | downcase | replace: " ", "-" %}
+                            {% assign plug_cat = category | downcase %}
+                            {% if site.data.tags[convert_cat] %}
+                                {% assign plug_cat = site.data.tags[convert_cat] %}
+                            {% endif %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ plug_cat }}.html">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -128,7 +138,12 @@ description: "Blog for translated my favorite news/articles from English/Korean 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                            {% assign convert_cat = category | downcase | replace: " ", "-" %}
+                            {% assign plug_cat = category | downcase %}
+                            {% if site.data.tags[convert_cat] %}
+                                {% assign plug_cat = site.data.tags[convert_cat] %}
+                            {% endif %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ plug_cat }}.html">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -173,7 +188,12 @@ description: "Blog for translated my favorite news/articles from English/Korean 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                            {% assign convert_cat = category | downcase | replace: " ", "-" %}
+                            {% assign plug_cat = category | downcase %}
+                            {% if site.data.tags[convert_cat] %}
+                                {% assign plug_cat = site.data.tags[convert_cat] %}
+                            {% endif %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ plug_cat }}.html">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
