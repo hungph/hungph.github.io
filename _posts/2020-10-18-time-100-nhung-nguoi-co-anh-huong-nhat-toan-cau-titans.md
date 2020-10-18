@@ -592,6 +592,6 @@ Love, Simon mang đến cho tôi một con đường hạnh phúc nhất. Hầu 
 
 Cảm ơn Greg, đã cho tôi một trách nhiệm tuyệt vời để trở thành người mẹ của thanh thiếu niên và cha mẹ của họ ở mọi nơi. Tôi biết chồng bạn, con trai bạn, con gái bạn và người mẹ thiên thần của bạn tự hào về bạn, và tôi cũng vậy.
 
-_Garner là một diễn viên được đề cử giả Emmy_
+_Garner là một diễn viên được đề cử giải Emmy_
 
 
