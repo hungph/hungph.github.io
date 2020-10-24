@@ -2,7 +2,7 @@
 layout: post
 title:  "TIME 100 - 100 nhân vật có sức ảnh hưởng nhất toàn cầu năm 2020 - Hạng mục Người khổng lồ (Titans)"
 categories: [ Bài dịch, Tiếng Anh ]
-image: https://api.time.com/wp-content/uploads/2020/09/TIM201005_RBG.CoverFINAL.jpg
+image: https://api.time.com/wp-content/uploads/2020/09/2020TIME100_GRID_16x9.jpg?quality=85&w=1100
 tags: [bài dịch, tiếng Anh, time 100, 2020, nhân vật, ảnh hưởng, toàn cầu]
 ---
 **Ngày 23/9, tạp chí Time của Mỹ đã công bố danh sách 100 nhân vật có sức ảnh hưởng nhất trên thế giới năm 2020. Năm nay Time chia ra thành sáu hạng mục: Biểu tượng (Icons), Nghệ sỹ (Artists), Nhà lãnh đạo (Leaders), Người khổng lồ (Titans), Người tiên phong (Pioneers), Tưởng nhớ (Remembrance). Bài dưới đây liệt kê những nhân vật trong hạng mục Người khổng lồ.**
