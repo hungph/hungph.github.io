@@ -124,7 +124,7 @@ Năm ngoái, Smith đã giúp cho hàng trăm thanh niên người da đen theo 
 
 Robert F. Smith đã nhận ra một cách sâu sắc rằng cách quan trọng nhất để dùng tài sản và các nguồn lực khác là tái đầu tư vào con người và cộng đồng, xã hội và tương lai. Nếu chúng ta có thể duy trì sự ưu tiên này, chúng ta sẽ có thể tạo ra một thế giới tốt đẹp hơn cho những thế hệ tương lai.
 
-_Jackson là một nhà sản xuất và diễn viên được đề cử giải Academy, và Richardson Jackson là một nhà sản xuất và một diễn viên được đề cử giải Tony. Họ đã cưới nhau._
+_Jackson là một nhà sản xuất và diễn viên được đề cử giải Oscar, và Richardson Jackson là một nhà sản xuất và một diễn viên được đề cử giải Tony. Họ đã cưới nhau._
 
 #### Lisa Nishimura
 

@@ -277,7 +277,7 @@ Có nhiều người mà bạn có thể nghe tên rất nhiều trong các bài
 
 Cách mạng là tình yêu.
 
-_Common là nhạc sỹ và nghệ sỹ thu âm đạt giải thưởng Emmy, Grammy và giải thưởng của viện Hàn lâm_
+_Common là nhạc sỹ và nghệ sỹ thu âm đạt giải thưởng Emmy, Grammy và giải Oscar_
 
 #### Lina Attalah
 

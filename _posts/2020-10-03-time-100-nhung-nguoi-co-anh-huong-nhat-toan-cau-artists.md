@@ -31,7 +31,7 @@ Năm nay, tôi đã gặp Alel Tesfaye, nghệ danh là Weeknd, trong lễ trao 
 
 Khi anh ấy sử dụng đọan điệp khúc của "Your Song" trong bài hát "Scared to Live", anh ấy đã đúng, tôi rất khấn khích, nhưng anh ấy cũng dùng những đoạn mẫu từ Smiths and ca sỹ người Ethiopia Aster Aweke. "Blinding Lights" là ca khúc nhạc pop hay nhất năm 2020, mang đậm âm hưởng của thập niên 80, nhưng lại ở trong một album rất nội tâm. Anh ấy kết hợp rất nhiều thể loại âm nhạc khác nhau vào trong tầm nhìn của mình. Anh ấy không quan tâm đến việc thương mại hoá vì những lợi ích nó mang lại, nhưng anh ấy là một trong những nghệ sỹ có lượng phát hành trực tuyến lớn nhất Spotify. Giống như Prince, anh ấy hành động theo nhịp đập của chính mình. Đó cũng là một hình mẫu mà những người nghệ sỹ nên hướng tới.
 
-_John là ca-nhạc sỹ đạt giải thưởng Grammy, Tony và Academy_
+_John là ca-nhạc sỹ đạt giải thưởng Grammy, Tony và Oscar_
 
 #### Phoebe Waller-Bridge
 
@@ -184,7 +184,7 @@ Lời bình: Denzel Washington
 
 Khi tôi xem Fruitvale Station và suy nghĩ "Đứa trẻ này là ai?"  Michael B. Jordan đã có một sự xuất hiện, đầy năng lượng và tài năng, rất nổi bật. Điều này thật sảng khoái. Những gì tôi học được từ anh ấy trong thời gian ngắn tôi biết anh ấy đã làm tôi ngưỡng mộ đạo đức làm việc, sự mãnh liệt và khát khao vươn lên vị trí xuất sắc của anh ấy. Anh ấy là người nhanh nhạy, từ những vị trí anh ấy chọn, bao gồm vai diễn đầy quyền lực của luật sư dân quyền Bryan Stevenson trong Just Mercy 2019, cho đến cách anh ấy sử dụng công ty sản xuất của anh, Outlier Society, để thúc đẩy sự nghiệp ở Hollywood. Anh ấy đã là một thế lực trước ống kính, nhưng phía sau hậu trường, anh ấy còn có quyền lực lớn hơn. Khi nói đến Michael, chúng ta có thể mong đợi những điều bất ngờ. Tôi hạnh phúc khi trở thành một phần nhỏ trong cuộc hành trình của anh ấy và tôi rất nóng lòng muốn xem mọi thứ sẽ diễn ra thế nào. Anh ấy thế hệ kế tiếp và thật tốt là chúng tôi đang hợp tác tốt.
 
-_Washingtin là diễn viên thắng giải Tony và Academy_
+_Washingtin là diễn viên thắng giải Tony và Oscar_
 
 #### Jojo Siwa
 
@@ -367,7 +367,7 @@ Có một từ trong tiếng Hàn, ahjussi, nói về những người đàn ôn
 
 Anh ấy là một người hâm mộ điện ảnh điên cuồng trong khi không hề che giấu một sự tự hào: Anh ấy giỏi tất cả mọi thứ trong điện ảnh. Về con người? Trái tim ngọt ngào, chung thuỷ, hài hước, ấm áp, vui tươi, chân thành, yêu gia đình, tính cách điên điên, tốt bụng. Thật lấp lánh.
 
-_Swinton là một diễn viên thắng giải Academy_
+_Swinton là một diễn viên thắng giải Oscar_
 
 #### Michaela Coel
 
@@ -451,4 +451,4 @@ Sau khi quay xong bộ phim Respect with her năm ngoái, và xem các phần c�
 
 Jenifer đem tất cả những gì cô ấy có vào những gì cô ấy làm. Đó là một điều đáng quý. Sự nghiệp của cô ấy đã phát triển ấn tượng trên tư cách của một ca sỹ và diễn viên bởi vì tinh thần làm việc, sự chuyên nghiệp, và tất nhiên, tài năng của cô. Mỗi lần nhìn thấy cô ấy, tôi đều thấy cô ấy trông tuyệt vời như thế nào.
 
-_Blige là ca sỹ, nhạc sỹ và diễn viên đạt giải Grammy và được đề cử giải Academy_
+_Blige là ca sỹ, nhạc sỹ và diễn viên đạt giải Grammy và được đề cử giải Oscar_

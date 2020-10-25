@@ -208,7 +208,7 @@ Năm ngoái, Amazon được biết đến giống như là một vùng đất c
 
 Cô ấy đã giữ lời và tiếp tục là tiếng nói và người bênh vực cho cộng đồng của cô. Lý do của Nemonte là lý do của tất cả chúng ta. Cô ấy truyền cảm ứng cho những người mà cô ấy nói chuyện cùng để cùng nhau gánh vác và bước cùng nhau để tiếp tục phát triển phong trào. Tôi may mắn vì đã gặp được cô ấy và may mắn hơn là vẫn còn tiếp tục được học hỏi từ cô ấy.
 
-_Dicaprio là diễn viên được giải Academy và một nhà bảo vệ môi trường_
+_Dicaprio là diễn viên được giải Oscar và một nhà bảo vệ môi trường_
 
 #### Jung Eun-Kyeong
 
