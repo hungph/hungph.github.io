@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[이건희 qua đời] \"Hãy thay đổi mọi thứ, trừ vợ con bạn\" ... Những câu nói của 이건희"
+title:  "[Lee Kun-hee qua đời] \"Hãy thay đổi mọi thứ, trừ vợ con bạn\" ... Những câu nói của Lee Kun-hee"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/001/2020/10/25/PYH2020102502880001300_P4_20201025143541354.jpg
 tags: [bài dịch, hàn quốc, samsung, lee kun-hee, qua đời, câu nói]
