@@ -17,6 +17,7 @@ tags: [bài dịch, hàn quốc, samsung, lee kun-hee, qua đời, câu nói]
 
 ![2011년 서초사옥 첫 출근](https://imgnews.pstatic.net/image/001/2020/10/25/PYH2020102502880001300_P4_20201025143541354.jpg){:height="auto" width="100%"}
 > (서울=연합뉴스) 한국 재계를 대표하는 이건희 삼성그룹 회장이 25일 서울 일원동 삼성서울병원에서 별세했다. 향년 78세. 2014년 5월 급성심근경색증으로 서울 이태원동 자택에서 쓰러진 뒤 6년만이다. 유족으로는 부인 홍라희 전 리움미술관 관장, 아들 이재용 삼성전자 부회장, 딸 이부진 호텔신라 사장, 이서현 삼성복지재단 이사장, 사위 김재열 삼성경제연구소 사장이 있다. 2011년 4월 21일 삼성 서초사옥 집무실에 처음 출근한 이건희 회장. 2020.10.25 [연합뉴스 자료사진] photo@yna.co.kr
+
 > Chủ tịch tập đoàn Samsung 이건희, khuôn mặt đại diện cho giới kinh doanh tại Hàn Quốc, đã qua đời tại bệnh viện 삼성서울 ở quận 일원, thủ đô 서울 của Hàn Quốc. Hưởng dương 78 tuổi. Sáu năm trước vào tháng 5/2014, ông bị ngã gục sau khi lên cơn nhồi máu cơ tim cấp tại nhà riêng ở quận 이태원. Gia quyến của ông gồm vợ 홍라희 - cựu quản lý của bảo tàng nghệ thuật 리움, con trai 이재용 - chủ tịch tập đoàn Samsung Electronics (삼성전자), con gái 이부진 - giám đốc khách sạn 신라, 이서현 - chủ tịch quỹ tài chính phúc lợi Samsung, con rể 김재열 - chủ tịch viện nghiên cứu kinh tế Samsung. Ảnh tư liệu là ngày 21 tháng 4/2011, lần đầu tiên ông đến thăm văn phòng Samsung tại 서초.
 
 <details>
