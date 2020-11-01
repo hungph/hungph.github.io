@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[이건희 qua đời] \"Hãy thay đổi mọi thứ, trừ vợ con bạn\"... Những câu nói của 이건희"
+title:  "[이건희 qua đời] \"Hãy thay đổi mọi thứ, trừ vợ con bạn\" ... Những câu nói của 이건희"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/001/2020/10/25/PYH2020102502880001300_P4_20201025143541354.jpg
-tags: [bài dịch, hàn quốc, samsung, 이건희, qua đời, câu nói]
+tags: [bài dịch, hàn quốc, samsung, lee kun-hee, qua đời, câu nói]
 ---
 
 **Cách nói chuyện thẳng thắn, có phần thô lỗ đặc trưng của chủ tịch tập đoàn 삼성 (Samsung) vừa mới qua đời 이건희 (Lee Kun-hee) đã trở thành nền tảng trong việc quản lý của Samsung.**
