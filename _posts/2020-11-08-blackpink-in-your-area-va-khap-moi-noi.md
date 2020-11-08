@@ -39,7 +39,7 @@ Trong một cuộc gọi với nhóm qua Zoom vào giữa tháng 7, Rosé đã k
 
 Nói về buổi hoà nhạc với bất kỳ ai lúc này giống như một cảm giác buồn vui lẫn lộn, nhưng với Blackpink, còn có thêm một nỗi niềm khác. Nếu người hâm mộ (còn gọi là Blinks) chưa biết, nhưng trong vòng 2 tuần, công ty chủ quản (YG Entertainment) và công ty thu âm Mỹ (Interscope Records) thông báo ngày 2/10 là ngày phát hành album đầy đủ đầu tiên của nhóm. (Trong trường hợp bạn không biết mức độ mong chờ album này cao như thế nào, người hâm mộ nhóm đã từng thuê một chiếc xe tải có màn hình lớn với dòng chữ "Blinks Demand for Blackpink" cả tiếng Anh và tiếng Hàn chạy vòng vòng trụ sở chính của YG ở Seoul). Phần cay đắng là: Có thể sẽ phải mất vài tháng nữa để nhóm có thể an toàn đi lưu diễn bởi vì đại dịch Covid-19.
 
-![Blackpink](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0016-watermark-1600203476.jpg){:height="auto" width="100%"}
+![Blackpink](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0016-watermark-1600203476.jpg){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > - Back row, from left, on Lisa: Jacket, trousers, boots, Celine by Hedi Slimane. Necklaces, ring, Bulgari. On Jennie: Dress, tights, earrings, boots, Chanel. Rings, Chanel Fine Jewelry. On Rosé: Blazer, tights, pumps, Saint Laurent by Anthony Vaccarello. Necklace, Tiffany & Co. Center, on Jisoo: Vest, trousers, Dior. Bracelets, rings, Cartier.
 > - Ngoài cùng bên trái: Lisa, chính giữa bên trên: Jennie, ngoài cùng bên phải: Rosé, chính giữa phía dưới: Jisoo
 
@@ -82,19 +82,19 @@ Ban đầu, các thành viên của Blackpink tham dự các sàn diễn thời 
 
 Âm nhạc và thời gian tiếp tục được hoà quyện vào nhau trong những hình ảnh của nhóm. Cảnh Lisa bước xuống những bậc thang của một lăng mộ Ai Cập trong một chiếc váy Celine xếp tầng mở đầu cho video "How You Like That.". Nhìn thẳng vào máy quay, cô ấy bật lên âm thanh đã trở thành biểu tượng chiến đấu của nhóm, "Blackpink in your area!" Jennie giải thích kỹ hơn về ý nghĩa của cụm từ này: "Khi chúng tôi nói 'Blackpink in your area', chúng tôi đang muốn nói rằng, chúng tôi đang ở đây với các bạn với một thứ âm nhạc hay, một thứ năng lượng tích cực - chúng tôi ở đây vì các bạn."
 
-![Rosé](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0006-watermark-1600204289.jpg){:height="auto" width="100%"}
+![Rosé](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0006-watermark-1600204289.jpg){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > - “I’m very proud that we all originated from different parts of the world.” —⁠ ROSÉ
 > - Tôi rất tự hào rằng tất cả chúng tôi đều đến từ những nơi khác nhau của thế giới - Rosé
 
-![Jisoo](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0008-watermark-1600204390.jpg){:height="auto" width="100%"}
+![Jisoo](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0008-watermark-1600204390.jpg){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > - “We’re moved by our fans. We feel their sadness and happiness. We’re deeply connected.” —⁠ JISOO
 > - "Chúng tôi rất cảm động trước những người hâm mộ của mình. Chúng tôi cảm nhận được nỗi buồn và hạnh phúc của họ. Chúng tôi có mối liên kết sâu sắc với nhau." - JISOO
 
-![Lisa](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0001-watermark-1600204525.jpg){:height="auto" width="100%"}
+![Lisa](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0001-watermark-1600204525.jpg){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > - “My mother says I was always dancing and singing as a child.” —⁠ LISA
 > - "Mẹ tôi nói rằng tôi luôn nhảy và hát từ lúc còn nhỏ." - LISA
 
-![Jennie](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0013-watermark-1600204778.jpg){:height="auto" width="100%"}
+![Jennie](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm100120wlblackpink0013-watermark-1600204778.jpg){:height="auto" width="65%" style="margin-left: auto;margin-right: auto;display: flex;"}
 > - “Just like how kids at school become friends, we just got along. It was very easy.” — ⁠JENNIE
 > - "Giống như cách những đứa trẻ ở trường trở thành bạn của nhau. Điều đó rất dễ dàng." - JENNIE
 
