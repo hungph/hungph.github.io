@@ -13,7 +13,7 @@ tags: [bài dịch, hàn quốc, drone taxi, seoul, máy bay không người lá
 
 > Bài gốc: [서울 도심 하늘 누빈 첫 드론택시…5년 뒤 상용화](https://n.news.naver.com/article/422/0000456371)
 
-<iframe src='https://tv.naver.com/embed/16661892?autoPlay=true' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' WIDTH='544' HEIGHT='306' allow='autoplay' allowfullscreen></iframe>
+<iframe src='https://tv.naver.com/embed/16661892?autoPlay=true' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' WIDTH='544' HEIGHT='306' allow='autoplay' allowfullscreen style="margin-left: auto;margin-right: auto;display: flex;"></iframe>
 
 <details>
   <summary>Đoạn văn gốc</summary>
@@ -70,4 +70,4 @@ Phóng viên 이재동, đến từ 연합뉴스TV.
 
 - Hình ảnh từ facebook của thành phố Seoul
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoul.kr%2Fposts%2F3398188773568277&show_text=true&width=552&appId=541170032588985&height=798" width="552" height="798" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoul.kr%2Fposts%2F3398188773568277&show_text=true&width=552&appId=541170032588985&height=798" width="552" height="798" style="border:none;overflow:hidden;margin-left: auto;margin-right: auto;display: flex;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
