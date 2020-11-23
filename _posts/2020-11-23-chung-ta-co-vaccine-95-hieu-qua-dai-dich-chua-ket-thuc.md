@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vâng, chúng ta có những loại vaccine chống Covid-19 hiệu quả 95%. Nhưng không có nghĩa là đại dịch đã gần kết thúc."
+title:  "Vâng, chúng ta có những loại vaccine chống Covid-19 hiệu quả 95 phần trăm. Nhưng không có nghĩa là đại dịch đã gần kết thúc."
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://api.time.com/wp-content/uploads/2020/11/GettyImages-1212409693.jpg
 tags: [bài dịch, tiếng anh, vaccine, covid-19, đại dịch]
