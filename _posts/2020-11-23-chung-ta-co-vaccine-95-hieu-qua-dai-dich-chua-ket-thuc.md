@@ -3,7 +3,7 @@ layout: post
 title:  "Vâng, chúng ta có những loại vaccine chống Covid-19 hiệu quả 95%. Nhưng không có nghĩa là đại dịch đã gần kết thúc."
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://api.time.com/wp-content/uploads/2020/11/GettyImages-1212409693.jpg
-tags: [bài dịch, tiếng anh, vaccine, covid-19, đại dịch]
+tags: [featured, bài dịch, tiếng anh, vaccine, covid-19, đại dịch]
 ---
 
 **Chúng ta có lý do để hy vọng khi nhận được những tin tức tốt lành về hai loại vaccine, nhưng còn quá sớm để mất cảnh giác với Covid-19.**

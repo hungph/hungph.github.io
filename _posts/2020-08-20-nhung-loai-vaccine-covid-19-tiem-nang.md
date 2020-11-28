@@ -3,7 +3,7 @@ layout: post
 title:  "Đây là những loại vaccine tiềm năng đang được phát triển để chống lại đại dịch Covid-19"
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://raw.githubusercontent.com/hungph/hungph.github.io/master/assets/images/vaccine-covid-19-1.png
-tags: [featured, bài dịch, tiếng anh, vaccine, covid-19]
+tags: [bài dịch, tiếng anh, vaccine, covid-19]
 ---
 **Chúng tôi đang theo dõi hơn 200 loại vaccine đang được thử nghiệm nhằm ngăn chặn cơn đại dịch hiện nay, một nhiệm vụ khoa học đang được thúc đẩy với tốc độ nhanh chóng hơn bao giờ hết**
 
