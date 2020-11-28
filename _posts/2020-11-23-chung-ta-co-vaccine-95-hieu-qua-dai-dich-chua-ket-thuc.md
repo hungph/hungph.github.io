@@ -34,7 +34,7 @@ tags: [bài dịch, tiếng anh, vaccine, covid-19, đại dịch]
   <p>With reporting by Amy Gunia/Hong Kong</p>
 </details>
 
-Đã có một tia hy vọng hiếm hoi trong một năm bị đại dịch tàn phá dữ dội: vào tháng 11, cả Moderna và Pfizer đều báo cáo rằng hai loại vaccine Covid-19 nhận được rất nhiều kỳ vọng của họ đều có hiệu quả 95% trong việc bảo vệ cơ thể người chống lại căn bệnh này.
+Đã có một tia hy vọng hiếm hoi trong một năm bị đại dịch tàn phá dữ dội: vào tháng 11, cả [Moderna](/moderna-vaccine-hieu-qua-94-y-nghia-thuc-su-la-gi/) và Pfizer đều báo cáo rằng hai loại vaccine Covid-19 nhận được rất nhiều kỳ vọng của họ đều có hiệu quả 95% trong việc bảo vệ cơ thể người chống lại căn bệnh này.
 
 Các nhà khoa học rất hân hoan (và thậm chí ngạc nhiên vì mức độ bảo vệ hiệu quả này), giới chức y tế cộng đồng cuối cùng cũng đã có thể nhìn thấy được một khởi đầu cho sự kết thúc của đại dịch này, và các gia đình trên khắp mọi nơi bắt đầu mơ tưởng về một cuộc sống bình thường trở lại khi họ có thể quây quần cùng nhau bên bàn ăn để ăn mừng những ngày lễ mà không phải lo lắng đến những mối lo lắng về sức khoẻ cộng đồng nữa.
 
