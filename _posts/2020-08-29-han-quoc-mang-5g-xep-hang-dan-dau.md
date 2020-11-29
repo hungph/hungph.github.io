@@ -3,7 +3,7 @@ layout: post
 title:  "Hàn Quốc có đang dẫn đầu về tốc độ mạng 5G? Có quốc gia khác đã đánh bại Hàn Quốc"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://image.chosun.com/sitedata/image/202008/27/2020082701858_0.jpg
-tags: [bài dịch, hàn quốc, 5g, tốc độ, đánh bại, opensignal, saudi aribia]
+tags: [bài dịch, hàn quốc, 5g, tốc độ, đánh bại, opensignal, saudi arabia]
 ---
 **Theo báo cáo của cơ quan nghiên cứu thị trường mới nhất của Anh Quốc, Saudi Arabia dẫn đầu, Hàn Quốc xếp thứ 2. Tốc độ sử dụng 5G trong thực tế, Hàn Quốc xếp thứ 3.**
 <details>

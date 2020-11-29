@@ -3,7 +3,7 @@ layout: post
 title:  "Tại sao sự cạnh tranh giữa Mỹ và Trung Quốc đang ở thời điểm mang tính bước ngoặt - Ý nghĩa của nó đối với các hoạt động thương mại"
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://content.fortune.com/wp-content/uploads/2020/08/wld_map_01-01.png
-tags: [featured, bài dịch, tiếng anh, Mỹ, Trung Quốc, thương chiến, cạnh tranh, thương mại, global 500]
+tags: [featured, bài dịch, tiếng anh, mỹ, trung quốc, thương chiến, cạnh tranh, thương mại, global 500]
 ---
 **Nước Mỹ đã không còn là siêu cường kinh tế duy nhất trên thế giới nữa. Khi Trung Quốc đã có thêm bước tiến mới trên bảng xếp hạng Global 500, sự cạnh tranh giữa hai quốc gia ngày càng gay gắt. Dưới đây là những phân tích tại sao cuộc cạnh tranh này đang ở giai được bước ngoặt, và ý nghĩa của nó đối với các hoạt động thương mại toàn cầu**
 

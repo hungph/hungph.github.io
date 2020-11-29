@@ -93,7 +93,12 @@ layout: default
 				<div class="mb-4">
 					<span class="taglist">
 					{% for tag in page.tags %}
-					  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+					  {% assign convert_tag = tag | downcase | replace: " ", "-" %}
+					  {% assign plug_tag = tag | downcase %}
+					  {% if site.data.tags[convert_tag] %}
+					    {% assign plug_tag = site.data.tags[convert_tag] %}
+					  {% endif %}
+					  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tag/{{ plug_tag }}.html">{{ tag | downcase }}</a>
 					{% endfor %}
 					</span>
 				</div>

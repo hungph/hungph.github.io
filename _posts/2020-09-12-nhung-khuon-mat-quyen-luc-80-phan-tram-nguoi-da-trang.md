@@ -3,7 +3,7 @@ layout: post
 title:  Những khuôn mặt quyền lực - 80% là người da trắng, ngay cả khi xã hội Mỹ đã trở nên đa dạng sắc tộc hơn
 categories: [ Bài dịch, Tiếng Anh ]
 image: https://static01.nyt.com/newsgraphics/2020/07/01/faces-of-power/3505eb62fafd4b70c245df32d03004e9f88d3fe5/summary-summary-1200deeper.jpg
-tags: [bài dịch, tiếng anh, Mỹ, Trung Quốc, thương chiến, cạnh tranh, thương mại, global 500]
+tags: [bài dịch, tiếng anh, mỹ, quyền lực, da trắng, sắc tộc]
 ---
 **Trong số 922 nhân vật quyền lực nhất nước Mỹ, chỉ có 180 người da màu.**
 
