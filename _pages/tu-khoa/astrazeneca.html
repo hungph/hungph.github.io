@@ -1,19 +1,19 @@
 ---
-title: "Từ khoá: Trang phục"
+title: "Từ khoá: AstraZeneca"
 layout: default
 pagination:
     enabled: true
-permalink: "/tag/trang-phuc.html"
+permalink: "/tu-khoa/astrazeneca.html"
 ---
 
 <div class="container" style="padding-top: 15px;">
     <div class="row justify-content-center">
         <div class="col-md-8">
-          <h1 class="font-weight-bold title h6 text-uppercase mb-4">Từ khoá: Trang phục</h1>
+          <h1 class="font-weight-bold title h6 text-uppercase mb-4">Từ khoá: AstraZeneca</h1>
             
           {% for tag in site.tags %}
             {% assign tag_name = tag[0] | downcase %}
-            {% if tag_name == "trang phục" %}
+            {% if tag_name == "astrazeneca" %}
               {% assign pages_list = tag[1] %}
               {% for post in pages_list %}
               {% if post.title != null %}
