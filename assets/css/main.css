@@ -380,6 +380,36 @@ hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+@media (min-width: 576px) {
+  iframe {
+    width: 100%;
+    height: 100%;
+  } }
+
+@media (min-width: 768px) {
+  iframe {
+    width: 100%;
+    height: 100%;
+  } }
+
+@media (min-width: 992px) {
+  iframe {
+    width: 700;
+    height: 394;
+  } }
+
+@media (min-width: 1200px) {
+  iframe {
+    width: 700;
+    height: 394;
+  } }
+
 small,
 .small {
   font-size: 85%;

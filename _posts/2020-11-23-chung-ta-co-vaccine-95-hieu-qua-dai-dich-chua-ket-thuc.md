@@ -46,7 +46,7 @@ Nhưng cũng với chuyên gia y tế cộng đồng, những người đang hâ
 
 Đây vẫn là một lợi thế lớn so với việc nhiễm virus thật, khi những người mắc Covid-19 nghiêm trọng nhất phải nằm trong bệnh viện, và phải được chăm sóc đặc biệt và phải dùng ống thở. Càng có nhiều người có triệu chứng nhẹ và tự phục hồi tại nhà, các hệ thống chăm sóc sức khoẻ sẽ giảm được sự quá tải, các nhân viên y tế sẽ ít phải tiếp xúc với virus, tất cả sẽ góp phần để kiểm soát tốt hơn đại dịch.
 
-<iframe src='//players.brightcove.net/293884104/gh5LeNtQaQ_default/index.html?videoId=6211101550001' allowfullscreen frameborder=0 WIDTH='544' HEIGHT='306' style="margin-left: auto;margin-right: auto;display: flex;"></iframe>
+<iframe src='//players.brightcove.net/293884104/gh5LeNtQaQ_default/index.html?videoId=6211101550001' allowfullscreen frameborder=0></iframe>
 
 Do đó, vì các vaccine này không nhất thiết phải bảo vệ chống lại sự lây nhiễm, nên những biện pháp bảo vệ sức khoẻ cộng đồng như đeo khẩu trang, giãn cách xã hội và tránh tụ tập trong nhà vẫn là những điều rất cần thiết để ngăn ngừa virus. Phải có nhiều dữ liệu hơn để chứng minh rằng những người đã được tiêm vaccine và không bao giờ có triệu chứng không còn có thể lây lan cho người khác. Nhưng khi điều đó chưa được nghiên cứu đầy đủ, các chuyên gia y tế cho rằng tốt hơn hết chúng ta vẫn nên duy trì những hành vi đã được chứng minh là góp phần ngăn chặn sự lây lan của Covid-19.
 
