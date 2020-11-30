@@ -393,20 +393,19 @@ iframe {
 
 @media (min-width: 768px) {
   iframe {
-    width: 700;
-    height: 394;
+    width: 100%;
   } }
 
 @media (min-width: 992px) {
   iframe {
-    width: 700;
-    height: 394;
+    width: 700px;
+    height: 394px;
   } }
 
 @media (min-width: 1200px) {
   iframe {
-    width: 700;
-    height: 394;
+    width: 700px;
+    height: 394px;
   } }
 
 small,
