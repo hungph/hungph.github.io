@@ -13,7 +13,7 @@ tags: [bài dịch, hàn quốc, drone taxi, seoul, máy bay không người lá
 
 > Bài gốc: [서울 도심 하늘 누빈 첫 드론택시…5년 뒤 상용화](https://n.news.naver.com/article/422/0000456371)
 
-<iframe src='https://tv.naver.com/embed/16661892?autoPlay=true' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' WIDTH='544' HEIGHT='306' allow='autoplay' allowfullscreen style="margin-left: auto;margin-right: auto;display: flex;"></iframe>
+<iframe src='https://tv.naver.com/embed/16661892?autoPlay=true' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' allow='autoplay' allowfullscreen></iframe>
 
 <details>
   <summary>Đoạn văn gốc</summary>

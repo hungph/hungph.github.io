@@ -27,7 +27,7 @@ Thấp thoáng phía xa xa dưới làn khói bụi mù mịt là cây cầu C�
 
 San Francisco, và phần lớn California, chưa bao giờ trông như thế này.
 
-<iframe width="480" height="290" scrolling="no" src="https://www.washingtonpost.com/video/c/embed/b3b06b9a-6622-404e-9922-3b7849a77870" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="margin-left: auto;margin-right: auto;display: flex;"></iframe>
+<iframe scrolling="no" src="https://www.washingtonpost.com/video/c/embed/b3b06b9a-6622-404e-9922-3b7849a77870" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 > - Across California, residents are grappling with the devastating toll of fires, which have burned more than 3 million acres this year and are still spreading. (Austin Meyer; Jonathan Baran; Alice Li/The Washington Post)
 > - Khắp California, người dân đang phải vật lộn với những đám cháy tàn khốc, đã thiêu rụi hơn 3 triệu mẫu đất trong năm nay và còn đang tiếp tục lan rộng.
 
@@ -115,7 +115,7 @@ Bà cũng cảnh báo rằng, với những gì đang xảy ra hiện tại thì
 
 Cobb nói, "Các nhà khoa học đã chỉ rõ mối quan hệ chặt chẽ giữa nhiệt độ nóng lên và những đám cháy rừng", "Điều này sẽ ngày vàng tồi tệ hơn... Tôi thậm chí cũng không thể tưởng tượng ra viễn cảnh đó."
 
-<iframe width='480' height='290' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/d30eedb4-a1f2-423f-aca5-13a1021ca9eb' frameborder='0' style="margin-left: auto;margin-right: auto;display: flex;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src='https://www.washingtonpost.com/video/c/embed/d30eedb4-a1f2-423f-aca5-13a1021ca9eb' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 > - Wildfire season is a natural part of many ecosystems, but climate change has these fires burning hotter and longer throughout the year. (John Farrell/The Washington Post)
 > - Mùa cháy rừng là một phần tự nhiên của hệ sinh thái, nhưng biến đổi khí hậu đã làm những đám cháy ngày càng nóng và kéo dài ra cả năm.
 
@@ -140,7 +140,7 @@ Thu nhập trung bình của tiểu bang là 75,277 đô la Mỹ. Giá nhà trun
 
 Ba năm trước, những nhà luật pháp của bang đã phê duyệt một mức thuế xăng dầu cao thứ hai toàn nước Mỹ, thêm hơn 47 cent vào giá của một gallon dầu. Khi giá nhà tăng phi mã ở các vùng dọc bờ biển, những người làm thời vụ phải dời vào sống ở các vùng sâu bên trong, cách xa với nơi họ làm việc, gần hơn với các đám cháy. Điều này có nghĩa họ phải trả nhiều tiền hơn cho tiền nhiên liệu chỉ để giữ được công việc của mình.
 
-<iframe width='480' height='290' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/f81bbfac-ce8d-46af-bcd8-6a9a060a88e3' frameborder='0' style="margin-left: auto;margin-right: auto;display: flex;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src='https://www.washingtonpost.com/video/c/embed/f81bbfac-ce8d-46af-bcd8-6a9a060a88e3' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 > - Evacuees from the CZU Lightning Complex fire burning between Santa Cruz and San Mateo counties have not been told when they can return home. (James Cornsilk/The Washington Post)
 > - Những người sơ tán khỏi đám cháy ở CZU Lightning Complex giữa quận Santa Cruz và San Mateo vẫn chưa biết khi nào họ có thể được trở về nhà.
 
