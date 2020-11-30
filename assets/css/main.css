@@ -385,6 +385,7 @@ iframe {
   margin-right: auto;
   display: flex;
   width: 100%;
+  min-height: 198px;
 }
 
 @media (min-width: 576px) {
@@ -394,8 +395,8 @@ iframe {
 
 @media (min-width: 768px) {
   iframe {
-    width: 700px;
-    height: 394px;
+    width: 660px;
+    height: 371px;
   } }
 
 @media (min-width: 992px) {
