@@ -6,10 +6,10 @@ image: https://imgnews.pstatic.net/image/015/2020/12/05/0004461846_001_202012051
 tags: [bài dịch, hàn quốc, vaccine, covid-19, astrazeneca]
 ---
 
-<p><strong>- Đầu tư mạnh vào Hàn Quốc trước khi dịch Covid-19 xảy ra</strong></p>
-<p><strong>- Hình thành từ sự sát nhập của công ty Astra AB của Thuỵ Điển và Zeneca của Anh Quốc</strong></p>
-<p><strong>- Kết quả nghiên cứu được chia sẻ chứ không giữ độc quyền nhằm tối đa lợi nhuận</strong></p>
-<p><strong>- Sự mong đợi vaccine ngày càng tăng khi tình hình nhiễm Covid-19 tại Hàn Quốc tăng mạnh trong thời gian gần đây</strong></p>
+<p><strong>Đầu tư mạnh vào Hàn Quốc trước khi dịch Covid-19 xảy ra</strong></p>
+<p><strong>Hình thành từ sự sát nhập của công ty Astra AB của Thuỵ Điển và Zeneca của Anh Quốc</strong></p>
+<p><strong>Kết quả nghiên cứu được chia sẻ chứ không giữ độc quyền nhằm tối đa lợi nhuận</strong></p>
+<p><strong>Sự mong đợi vaccine ngày càng tăng khi tình hình nhiễm Covid-19 tại Hàn Quốc tăng mạnh trong thời gian gần đây</strong></p>
 
 <details>
   <summary>Mô tả (Sapo) gốc</summary>
