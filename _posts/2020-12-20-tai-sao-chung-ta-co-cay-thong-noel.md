@@ -208,7 +208,7 @@ Trong thời hiện đại, các con thuyền Giáng sinh đã bị che mờ b�
 
 <details>
   <summary>Đoạn văn gốc</summary>
-  <p>Since the 17th century, Scandinavian families have dedicated a feast day to plundering their Christmas trees for sweets before throwing them out. 
+  <p>Since the 17th century, Scandinavian families have dedicated a feast day to plundering their Christmas trees for sweets before throwing them out. </p>
   <p>Observed on January 13, Saint Knut’s Day is named for King Canute, who ruled in the 11th century. Primarily celebrated in Sweden, the holiday is considered the 20th and last day of Christmas—unlike other countries where the Christmas period is 12 days long.</p>
   <p>To celebrate St. Knut’s Day, families hang cookies and other treats on their Christmas trees for children to raid. Once a family has finished stripping the tree of its decorations, people sing while tossing it ceremoniously out the door. (In Norway, the tree is chopped up and thrown in the fireplace instead.)</p>
   <p>St. Knut’s Day traditions have faded as Swedes have started taking down their Christmas decorations earlier, but Swedish folklorist Bengt af Klintberg told the TT news agency in 2015 that the tradition will live on in the country’s traditional poems and rhymes.</p>
