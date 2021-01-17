@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Khẫu trang - Giãn cách xã hội - Ổ dịch lớn - Vắc xin - Nhìn lại một năm với Covid-19 tại Hàn Quốc"
+title:  "Khẩu trang - Giãn cách xã hội - Ổ dịch lớn - Vắc xin - Nhìn lại một năm với Covid-19 tại Hàn Quốc"
 categories: [ Bài dịch, Hàn Quốc ]
 image: https://imgnews.pstatic.net/image/056/2021/01/16/0010972169_001_20210116080228350.jpg
 tags: [bài dịch, hàn quốc, covid-19]
