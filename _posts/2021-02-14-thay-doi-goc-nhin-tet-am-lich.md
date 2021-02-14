@@ -6,13 +6,13 @@ image: https://imgnews.pstatic.net/image/016/2021/02/12/20210210000881_0_2021021
 tags: [bài dịch, hàn quốc, tết âm lịch]
 ---
 
-**북적북적하던 명절 풍경 대신 ‘친구와 외출’ / 귀성 없는 설명절…혼자 호캉스 다녀오기도 / “잔소리·명절 증후군 없이 보내”**
+**"Đi ra ngoài với bạn bè" thay vì chen lấn trong những nơi đông đúc / Không về nhà... Đi du lịch một mình / "Không bị cằn nhằn - Không có hội chứng kỳ nghỉ"**
 
 <details>
   <summary>Mô tả (Sapo) gốc</summary>
-  <p>"Đi ra ngoài với bạn bè" thay vì chen lấn trong những nơi đông đúc</p>
-  <p>Không về nhà... Đi du lịch một mình</p>
-  <p>"Không bị cằn nhằn - Không có hội chứng kỳ nghỉ"</p>
+  <p>북적북적하던 명절 풍경 대신 ‘친구와 외출’</p>
+  <p>귀성 없는 설명절…혼자 호캉스 다녀오기도</p>
+  <p>“잔소리·명절 증후군 없이 보내”</p>
 </details>
 
 > Bài gốc: [“귀성 대신 ‘지인과 외출’, 잔소리 없는 명절”…달라진 설 풍경[촉!]](https://n.news.naver.com/article/016/0001793013)
