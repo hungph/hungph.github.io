@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Tàu thăm dò Perseverance của NASA đã hạ cánh an toàn trên sao Hoả sau '7 phút kinh hoàng'"
-categories: [ Bài dịch, Tiếng Anh, NASA, sao hoả, Perseverance ]
+categories: [ Bài dịch, Tiếng Anh ]
 image: https://images.wsj.net/im-301205
-tags: [bài dịch, hàn quốc, tết âm lịch]
+tags: [bài dịch, tiếng anh, nasa, sao hoả, perseverance]
 ---
 
 **Sứ mệnh 2 năm này là nỗ lực mới nhất và tham vọng nhất của NASA nhằm tìm kiếm bằng chứng dấu vết của sự sống đã từng xuất hiện trên hành tinh đỏ.**
