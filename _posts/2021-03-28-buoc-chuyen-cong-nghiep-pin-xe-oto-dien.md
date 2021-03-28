@@ -24,7 +24,7 @@ tags: [bài dịch, hàn quốc, xe hơi, xe điện, pin, trung quốc]
 ![K-배터리](https://imgnews.pstatic.net/image/030/2021/03/23/0002934847_001_20210324101437043.jpg){:height="auto" width="100%"}
 > 글로벌 완성차 업체별 배터리 유형 및 공급사 현황 (중국향 전용모델 제외, 2021년 3월 현재 공급 기준)
 
-##### Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu (loại trừ các model chỉ sản xuất riêng cho thị trường Trung Quốc, số liệu đến tháng 3/2021)
+> Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu (loại trừ các model chỉ sản xuất riêng cho thị trường Trung Quốc, số liệu đến tháng 3/2021)
 
 <details>
   <summary>Giải thích hình ảnh</summary>
