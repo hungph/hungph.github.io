@@ -38,7 +38,7 @@ tags: [bài dịch, hàn quốc, xe hơi, xe điện, pin, trung quốc]
 | Pin hình lăng trụ (Prismatic) | Bề mặt nhôm đang lại khả năng chống chịu ngoại lực và tản nhiệt, năng suất cao | Chi phí sản xuất ban đầu cao <br /> Mật độ năng lượng thấp | Samsung SDI, Panasonic, CATL, Northvolt |
 | Pin hình trụ (Cylindrical) | Giá thành sản xuất thấp <br /> Năng suất cao | Mật độ năng lượng thấp <br /> Cấu hình pack phức tạp | LG Energy Solution, Samsung SDI, Panasonic |
 
-> Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu
+##### Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu
 
 | Công ty sản xuất xe hơi | Loại pin điện | Nhà cung cấp pin |
 | :------ | :------ | :------ |

@@ -205,7 +205,11 @@ th {
   border-bottom: 1px solid gray;}
 
 td {
-    border-top: 1px solid #dee2e6;}
+    border-top: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;}
+
+td:last-child {
+  border-right: 0px;}
 
 label {
   display: inline-block;
