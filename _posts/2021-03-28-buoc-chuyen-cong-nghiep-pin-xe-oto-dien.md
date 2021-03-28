@@ -24,16 +24,16 @@ tags: [bài dịch, hàn quốc, xe hơi, xe điện, pin, trung quốc]
 ![K-배터리](https://imgnews.pstatic.net/image/030/2021/03/23/0002934847_001_20210324101437043.jpg){:height="auto" width="100%"}
 > 글로벌 완성차 업체별 배터리 유형 및 공급사 현황 (중국향 전용모델 제외, 2021년 3월 현재 공급 기준)
 
-> Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu (loại trừ các model chỉ sản xuất riêng cho thị trường Trung Quốc, số liệu đến tháng 3/2021)
+##### Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu (loại trừ các model chỉ sản xuất riêng cho thị trường Trung Quốc, số liệu đến tháng 3/2021)
 
 <details>
   <summary>Giải thích hình ảnh</summary>
 </details>
 
-> Ưu nhược điểm các loại pin
+##### Ưu nhược điểm các loại pin
 
 | Loại pin | Ưu điểm | Nhược điểm | Nhà cung cấp chính |
-| :------: | :------ | :------ | :------: |
+| :------ | :------ | :------ | :------ |
 | Pin hình túi (Pouch) | Mật độ năng lượng cao <br/> Quản lý nhiệt độ ở nhiều hình dạng khác nhau | Năng suất thấp <br /> Khó khăn trong việc kết hợp module - pack | LG Energy Solution, SK Innovation |
 | Pin hình lăng trụ (Prismatic) | Bề mặt nhôm đang lại khả năng chống chịu ngoại lực và tản nhiệt, năng suất cao | Chi phí sản xuất ban đầu cao <br /> Mật độ năng lượng thấp | Samsung SDI, Panasonic, CATL, Northvolt |
 | Pin hình trụ (Cylindrical) | Giá thành sản xuất thấp <br /> Năng suất cao | Mật độ năng lượng thấp <br /> Cấu hình pack phức tạp | LG Energy Solution, Samsung SDI, Panasonic |
@@ -41,7 +41,7 @@ tags: [bài dịch, hàn quốc, xe hơi, xe điện, pin, trung quốc]
 > Hiện trạng các loại pin xe hơi đang được sử dụng bởi các công ty xe hơi trên toàn cầu
 
 | Công ty sản xuất xe hơi | Loại pin điện | Nhà cung cấp pin |
-| :------: | :------: | :------: |
+| :------ | :------ | :------ |
 | Toyota | Pin hình túi | Panasonic, PEVE (Liên minh Toyota, Panasonic) |
 | Volkswagen | Pin hình túi - Pin hình lăng trụ | Samsung SDI, LG Energy Solution, SK Innovation, CATL |
 | Hyundai | Pin hình túi | LG Energy Solution, SK Innovation |
